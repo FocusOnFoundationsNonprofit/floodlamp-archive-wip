@@ -6,12 +6,12 @@ title: FloodLAMP Backup Collection Form - Abrome
 category: guides
 subcategory: test-site
 tags: 
-github_view_url: 
-github_raw_url: 
 source_file_type: gform
-source_url: https://docs.google.com/forms/d/14jgRf7MA6dEBkrK8fiPhn5ymCK38ZJqnr9YBAfhIbjc/edit
-gdrive_file_url: source
-conversion_input_file_path: 
+gfile_url: https://docs.google.com/forms/d/14jgRf7MA6dEBkrK8fiPhn5ymCK38ZJqnr9YBAfhIbjc/edit
+xfile_github_download_url: NA
+pdf_gdrive_url: NA
+pdf_github_url: NA
+conversion_input_file_type: gform
 conversion: ai (chatgpt 5.2 pro)
 status: wip
 license: 

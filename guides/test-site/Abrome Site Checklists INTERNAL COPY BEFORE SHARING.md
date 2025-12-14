@@ -6,12 +6,12 @@ title: Testing Site Checklists
 category: guides
 subcategory: test-site
 tags: 
-github_view_url: 
-github_raw_url: 
 source_file_type: gdoc
-source_url: https://docs.google.com/document/d/1Plnksj-OwJzUV9f0WIvhQncd_pBCS50HJuw-lSi7IqM/edit?usp=sharing
-gdrive_file_url: source
-conversion_input_file_path: data/floodlamp/guides/fp0_orig_docx/Abrome Site Checklists INTERNAL COPY BEFORE SHARING_PUBCOPY.docx
+gfile_url: https://docs.google.com/document/d/1Plnksj-OwJzUV9f0WIvhQncd_pBCS50HJuw-lSi7IqM
+xfile_github_download_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Abrome%20Site%20Checklists%20INTERNAL%20COPY%20BEFORE%20SHARING.docx
+pdf_gdrive_url: SKIP
+pdf_github_url: SKIP
+conversion_input_file_type: docx
 conversion: pandoc
 status: wip
 license: 
