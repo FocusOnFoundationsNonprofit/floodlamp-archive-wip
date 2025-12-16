@@ -10,7 +10,7 @@ source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1VBn8z1oUZA29-9OkproAwofi6O2ubEQ7PkvVdvyZqSA
 xfile_github_download_url: 
-pdf_gdrive_url: https://drive.google.com/file/d/1KkiuK5SPHIxHrdUhVLitD8uE3FCl3tdc/view?usp=drive_link
+pdf_gdrive_url: https://drive.google.com/file/d/1KkiuK5SPHIxHrdUhVLitD8uE3FCl3tdc
 pdf_github_url: 
 conversion_input_file_type: docx
 conversion: pandoc
