@@ -1,10 +1,10 @@
 METADATA
 last updated: 2025-12-17 BA
-file_name: 2023-12-04_WEBCOPY - FDA Proposed Rule to Regulate LDTs Should Be Withdrawn.md
+file_name: 2023-12-04_ACLA Website - FDA Proposed Rule to Regulate LDTs Should Be Withdrawn.md
 file_date: 2023-12-04
-title: WEBCOPY - FDA Proposed Rule to Regulate LDTs Should Be Withdrawn
+title: ACLA Website - FDA Proposed Rule to Regulate LDTs Should Be Withdrawn
 category: regulatory
-subcategory: fda-policy
+subcategory: ldts
 tags: 
 source_file_type: webcopy
 xfile_type: NA
@@ -15,7 +15,7 @@ pdf_github_url: NA
 conversion_input_file_type: docx
 conversion: manual cut and paste
 status: wip
-license: 3rd Party
+license: Public Domain
 tokens: 
 words: 
 notes: date converted 2024-06-03

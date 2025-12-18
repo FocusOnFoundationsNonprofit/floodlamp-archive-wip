@@ -1,8 +1,8 @@
 METADATA
 last updated: 2025-12-17 BA
-file_name: 2021-09-23_WEBCOPY - Revision Concerning Viral Mutations.md
+file_name: 2021-09-23_FDA Website - Revision Concerning Viral Mutations.md
 file_date: 2021-09-23
-title: WEBCOPY - Revision Concerning Viral Mutations
+title: FDA Website - Revision Concerning Viral Mutations
 category: regulatory
 subcategory: fda-policy
 tags: 
@@ -15,7 +15,7 @@ pdf_github_url: NA
 conversion_input_file_type: docx
 conversion: manual cut and paste
 status: wip
-license: 3rd Party
+license: Public Domain
 tokens: 
 words: 
 notes: date converted 2024-03-27

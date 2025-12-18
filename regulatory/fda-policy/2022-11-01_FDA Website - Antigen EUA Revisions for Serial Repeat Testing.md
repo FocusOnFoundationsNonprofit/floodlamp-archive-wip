@@ -1,8 +1,8 @@
 METADATA
 last updated: 2025-12-17 BA
-file_name: 2022-11-01_WEBCOPY - Antigen EUA Revisions for Serial Repeat Testing.md
+file_name: 2022-11-01_FDA Website - Antigen EUA Revisions for Serial Repeat Testing.md
 file_date: 2022-11-01
-title: WEBCOPY - Antigen EUA Revisions for Serial Repeat Testing
+title: FDA Website - Antigen EUA Revisions for Serial Repeat Testing
 category: regulatory
 subcategory: fda-policy
 tags: 
@@ -15,7 +15,7 @@ pdf_github_url: NA
 conversion_input_file_type: docx
 conversion: manual cut and paste
 status: wip
-license: 3rd Party
+license: Public Domain
 tokens: 
 words: 
 notes: date converted 2024-04-05

@@ -1,10 +1,9 @@
 METADATA
 last updated: 2025-12-17 BA updated metadata after BA fixed inconsistencies
-file_name: 2023-12-04_Letter to FDA - ACLAs Comments on FDAs Proposed Regulation of LDTs as Medical Devices.md
+file_name: 2023-12-04_ACLA - Letter to FDA - Comments on FDAs Proposed Regulation of LDTs as Medical Devices.md
 file_date: 2023-12-04
-title: Letter to FDA - ACLAs Comments on FDAs Proposed Regulation of LDTs as Medical Devices
-category: regulatory
-subcategory: fda-policy
+title: ACLA - Letter to FDA - Comments on FDAs Proposed Regulation of LDTs as Medical Devices
+subcategory: ldts
 tags: 
 source_file_type: pdf
 xfile_type: NA
@@ -15,7 +14,7 @@ pdf_github_url:
 conversion_input_file_type: pdf
 conversion: megaparse-v
 status: wip
-license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+license: Public Domain
 tokens: 
 words: 
 notes: 

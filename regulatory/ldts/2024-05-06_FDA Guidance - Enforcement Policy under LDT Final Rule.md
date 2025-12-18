@@ -1,10 +1,10 @@
 METADATA
 last updated: 2025-12-17 BA updated metadata after BA fixed inconsistencies
-file_name: 2024-05-06_FDA Policy IVD - FDAs Final Rule.md
+file_name: 2024-05-06_FDA Guidance - Enforcement Policy under LDT Final Rule.md
 file_date: 2024-05-06
-title: FDA Policy IVD - FDAs Final Rule
+title: FDA Guidance - Enforcement Policy under LDT Final Rule
 category: regulatory
-subcategory: fda-policy
+subcategory: ldts
 tags: 
 source_file_type: pdf
 xfile_type: NA
@@ -15,7 +15,7 @@ pdf_github_url:
 conversion_input_file_type: pdf
 conversion: megaparse-v
 status: wip
-license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+license: Public Domain
 tokens: 
 words: 
 notes: 

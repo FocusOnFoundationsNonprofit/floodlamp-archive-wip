@@ -1,10 +1,10 @@
 METADATA
 last updated: 2025-12-17 BA
-file_name: 2024-03-21_WEBCOPY - ACLA President to Testify on Regulation of Diagnostic Tests.md
+file_name: 2024-03-21_FDA Website - ACLA President to Testify on Regulation of Diagnostic Tests.md
 file_date: 2024-03-21
-title: WEBCOPY - ACLA President to Testify on Regulation of Diagnostic Tests
+title: FDA Website - ACLA President to Testify on Regulation of Diagnostic Tests
 category: regulatory
-subcategory: fda-policy
+subcategory: ldts
 tags: 
 source_file_type: webcopy
 xfile_type: NA
@@ -15,7 +15,7 @@ pdf_github_url: NA
 conversion_input_file_type: docx
 conversion: manual cut and paste
 status: wip
-license: 3rd Party
+license: Public Domain
 tokens: 
 words: 
 notes: date converted 2024-06-03

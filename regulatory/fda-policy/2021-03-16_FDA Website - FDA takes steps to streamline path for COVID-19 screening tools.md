@@ -1,8 +1,8 @@
 METADATA
 last updated: 2025-12-17 BA
-file_name: 2021-03-16_WEBCOPY - FDA takes steps to streamline path for COVID-19 screening tools.md
+file_name: 2021-03-16_FDA Website - FDA takes steps to streamline path for COVID-19 screening tools.md
 file_date: 2021-03-16
-title: WEBCOPY - FDA takes steps to streamline path for COVID-19 screening tools
+title: FDA Website - FDA takes steps to streamline path for COVID-19 screening tools
 category: regulatory
 subcategory: fda-policy
 tags: 
@@ -15,7 +15,7 @@ pdf_github_url: NA
 conversion_input_file_type: docx
 conversion: manual cut and paste
 status: wip
-license: 3rd Party
+license: Public Domain
 tokens: 
 words: 
 notes: date converted 2024-06-20

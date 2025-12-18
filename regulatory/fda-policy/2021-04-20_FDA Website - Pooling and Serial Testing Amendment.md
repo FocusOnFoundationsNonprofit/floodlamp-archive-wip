@@ -1,8 +1,8 @@
 METADATA
 last updated: 2025-12-17 BA
-file_name: 2021-04-20_WEBCOPY - Pooling and Serial Testing Amendment.md
+file_name: 2021-04-20_FDA Website - Pooling and Serial Testing Amendment.md
 file_date: 2021-04-20
-title: WEBCOPY - Pooling and Serial Testing Amendment
+title: FDA Website - Pooling and Serial Testing Amendment
 category: regulatory
 subcategory: fda-policy
 tags: 
@@ -15,7 +15,7 @@ pdf_github_url: NA
 conversion_input_file_type: docx
 conversion: manual cut and paste
 status: wip
-license: 3rd Party
+license: Public Domain
 tokens: 
 words: 
 notes: date converted 2024-03-27

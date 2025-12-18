@@ -1,8 +1,8 @@
 METADATA
 last updated: 2025-12-17 BA
-file_name: 2023-04-18_WEBCOPY - Webinar on Guidances on COVID-19 Transition Plans.md
+file_name: 2023-04-18_FDA Website - Webinar on Guidances on COVID-19 Transition Plans.md
 file_date: 2023-04-18
-title: WEBCOPY - Webinar on Guidances on COVID-19 Transition Plans
+title: FDA Website - Webinar on Guidances on COVID-19 Transition Plans
 category: regulatory
 subcategory: fda-policy
 tags: 
@@ -15,7 +15,7 @@ pdf_github_url: NA
 conversion_input_file_type: docx
 conversion: manual cut and paste
 status: wip
-license: 3rd Party
+license: Public Domain
 tokens: 
 words: 
 notes: date converted 2024-04-05

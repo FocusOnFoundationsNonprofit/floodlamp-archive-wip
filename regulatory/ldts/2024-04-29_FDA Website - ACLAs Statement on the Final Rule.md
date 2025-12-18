@@ -1,10 +1,10 @@
 METADATA
 last updated: 2025-12-17 BA
-file_name: 2024-04-29_WEBCOPY - ACLAs Statement on the Final Rule.md
+file_name: 2024-04-29_FDA Website - ACLAs Statement on the Final Rule.md
 file_date: 2024-04-29
-title: WEBCOPY - ACLAs Statement on the Final Rule
+title: FDA Website - ACLAs Statement on the Final Rule
 category: regulatory
-subcategory: fda-policy
+subcategory: ldts
 tags: 
 source_file_type: webcopy
 xfile_type: NA
@@ -15,7 +15,7 @@ pdf_github_url: NA
 conversion_input_file_type: docx
 conversion: manual cut and paste
 status: wip
-license: 3rd Party
+license: Public Domain
 tokens: 
 words: 
 notes: date converted 2024-06-03

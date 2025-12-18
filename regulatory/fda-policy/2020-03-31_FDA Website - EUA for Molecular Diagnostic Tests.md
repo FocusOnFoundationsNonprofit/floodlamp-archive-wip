@@ -1,8 +1,8 @@
 METADATA
 last updated: 2025-12-17 RT after BA
-file_name: 2020-03-31_WEBCOPY - EUA for Molecular Diagnostic Tests.md
+file_name: 2020-03-31_FDA Website - EUA for Molecular Diagnostic Tests.md
 file_date: 2020-03-31
-title: WEBCOPY - EUA for Molecular Diagnostic Tests
+title: FDA Website - EUA for Molecular Diagnostic Tests
 category: regulatory
 subcategory: fda-policy
 tags: 
@@ -15,7 +15,7 @@ pdf_github_url: NA
 conversion_input_file_type: docx
 conversion: manual cut and paste
 status: wip
-license: 3rd Party
+license: Public Domain
 tokens: 
 words: 
 notes: date converted 2024-03-27

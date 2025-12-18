@@ -1,10 +1,10 @@
 METADATA
 last updated: 2025-12-17 BA updated metadata after BA fixed inconsistencies
-file_name: 2024-05-29_Complaint to FDA - ACLA LDT Complaint.md
+file_name: 2024-05-29_ACLA - LDT Complaint to FDA Court filing.md
 file_date: 2024-05-29
-title: Complaint to FDA - ACLA LDT Complaint
+title: ACLA - LDT Complaint to FDA Court filing
 category: regulatory
-subcategory: fda-policy
+subcategory: ldts
 tags: 
 source_file_type: pdf
 xfile_type: NA
@@ -15,7 +15,7 @@ pdf_github_url:
 conversion_input_file_type: pdf
 conversion: megaparse-v
 status: wip
-license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+license: Public Domain
 tokens: 
 words: 
 notes: 
@@ -4116,4 +4116,3 @@ MAG. JUDGE
 ^93 The average annualized cost per small entity ranges from $4,395 per laboratory with annual receipts that are less than $150,000 and to $3,045,766 per laboratory with annual receipts between $40 and $49.99 million.
 
 ^94 Although businesses with gross receipts of $100 million or less are eligible to pay a reduced fee, we estimate the transfers per firm by receipts size category using the total transfers paid proportional to the share of IVDs offered as LDTs per receipt category in Table B.3 column D in Appendix B. For example, for firms making less than $150,000 in annual revenues, their share of total annual fees would be equivalent to 0.12% or $95 divided by $81,816 of the low estimate of total annualized fees of $2331 million.
-

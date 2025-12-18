@@ -4,7 +4,7 @@ file_name: 2024-06-25_FDA Guidance - Laboratory Developed Tests Small Entity Com
 file_date: 2024-06-25
 title: FDA Guidance - Laboratory Developed Tests Small Entity Compliance Guide
 category: regulatory
-subcategory: fda-policy
+subcategory: ldts
 tags: 
 source_file_type: pdf
 xfile_type: NA
@@ -15,7 +15,7 @@ pdf_github_url:
 conversion_input_file_type: pdf
 conversion: megaparse-v
 status: wip
-license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+license: Public Domain
 tokens: 
 words: 
 notes: 
@@ -261,4 +261,3 @@ FDA’s Q-Submission program additionally offers manufacturers an opportunity to
 [^13]: As discussed in the preamble to the final rule, FDA uses the phrase “LDTs approved by NYS CLEP” to refer to LDTs that are approved, conditionally approved by, or within an approved exemption from full technical documentation, under NYS CLEP.
 
 [^14]: Reporting requirements for other entities are also set forth in 21 CFR part 803.
-

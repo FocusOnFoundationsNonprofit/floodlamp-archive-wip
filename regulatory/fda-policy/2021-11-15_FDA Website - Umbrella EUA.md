@@ -1,8 +1,8 @@
 METADATA
 last updated: 2025-12-17 BA
-file_name: 2021-11-15_WEBCOPY - Umbrella EUA.md
+file_name: 2021-11-15_FDA Website - Umbrella EUA.md
 file_date: 2021-11-15
-title: WEBCOPY - Umbrella EUA
+title: FDA Website - Umbrella EUA
 category: regulatory
 subcategory: fda-policy
 tags: 
@@ -15,7 +15,7 @@ pdf_github_url: NA
 conversion_input_file_type: docx
 conversion: manual cut and paste
 status: wip
-license: 3rd Party
+license: Public Domain
 tokens: 
 words: 
 notes: date converted 2024-03-27
