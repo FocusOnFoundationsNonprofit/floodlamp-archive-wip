@@ -4,14 +4,14 @@ file_name: 2021-02-11_School Testing_San Francisco Unified School District - RFP
 file_date: 2021-02-11
 title: San Francisco Unified School District - RFP Questions and Answers Document (Feb 2021)
 category: various
-subcategory: reports-others
+subcategory: external-programs-reports
 tags: school testing, san francisco
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1kr-Bm4mrs53LKJclZH4d5QUvDwvRYgfS
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/external-programs-reports/2021-02-11_School%20Testing_San%20Francisco%20Unified%20School%20District%20-%20RFP%20Questions%20and%20Answers%20Document.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 status: wip

@@ -4,13 +4,14 @@ file_name: FL INDEX_Testing Programs and Playbooks Index SHARED.md
 file_date: 2021-05-21
 title: Compilation of Links to Testing Programs and Playbooks - Index SHARED (May 2021)
 category: various
-subcategory: compilations
-tags: testing programs
+subcategory: external-programs-reports
+tags: compilation, testing programs
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1-lsLymVsCkU4KMHzpcGr4qheCq72AmtfbHixyGN8Ebo
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/external-programs-reports/FL%20INDEX_Testing%20Programs%20and%20Playbooks%20Index%20SHARED.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1lJMDVc_xYGFM6ooIBGRfhw5va45H8wNi
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/external-programs-reports/FL%20INDEX_Testing%20Programs%20and%20Playbooks%20Index%20SHARED.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 status: wip

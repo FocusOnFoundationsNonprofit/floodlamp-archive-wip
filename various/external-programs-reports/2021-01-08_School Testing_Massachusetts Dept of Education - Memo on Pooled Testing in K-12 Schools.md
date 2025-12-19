@@ -1,17 +1,17 @@
 METADATA
 last updated: 2025-12-15 RT updated metadata after BA fixed inconsistencies
-file_name: 2021-01-08_School Testing_Massachusetts Dept of Education - Memo on Pooled Testing in K-12 Schools
+file_name: 2021-01-08_School Testing_Massachusetts Dept of Education - Memo on Pooled Testing in K-12 Schools.md
 file_date: 2021-01-08
 title: Massachusetts Dept of Education - Memo on Pooled Testing in K-12 Schools (Jan 2021)
 category: various
-subcategory: reports-others
+subcategory: external-programs-reports
 tags: school testing, massachusetts
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/11ny790H6RTIaqZ5jSNR2HfcDAfQ2VANGJJ9OTznkc6g
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/external-programs-reports/2021-01-08_School%20Testing_Massachusetts%20Dept%20of%20Education%20-%20Memo%20on%20Pooled%20Testing%20in%20K-12%20Schools.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1icm3UyACrqmflRPeUPhpVAHVNFR-zX5F
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/external-programs-reports/2021-01-08_School%20Testing_Massachusetts%20Dept%20of%20Education%20-%20Memo%20on%20Pooled%20Testing%20in%20K-12%20Schools.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 status: wip

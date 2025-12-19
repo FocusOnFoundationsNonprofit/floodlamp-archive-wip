@@ -1,17 +1,17 @@
 METADATA
 last updated: 2025-12-15 RT updated metadata after BA fixed inconsistencies
-file_name: 2020-09-01_School Testing_UnitedHealth Group - Safe and Strategic Return to School
+file_name: 2020-09-01_School Testing_UnitedHealth Group - Safe and Strategic Return to School.md
 file_date: 2020-09-01
 title: UnitedHealth Group - Safe and Strategic Return to School (Sept 2020)
 category: various
-subcategory: reports-others
+subcategory: external-programs-reports
 tags: school testing, uhg
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1pvPDW9TWeag782XHRh4uscIMoZDLJMiN
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/external-programs-reports/2020-09-01_School%20Testing_UnitedHealth%20Group%20-%20Safe%20and%20Strategic%20Return%20to%20School.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 status: wip

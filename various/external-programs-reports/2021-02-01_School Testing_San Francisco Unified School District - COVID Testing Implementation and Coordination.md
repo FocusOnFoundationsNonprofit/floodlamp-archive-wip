@@ -4,14 +4,14 @@ file_name: 2021-02-01_School Testing_San Francisco Unified School District - COV
 file_date: 2021-02-01
 title: San Francisco Unified School District - COVID Testing Implementation and Coordination (Feb 2021)
 category: various
-subcategory: reports-others
+subcategory: external-programs-reports
 tags: school testing, san francisco
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/15luDz7Vkgtx7pp-CDt89VE-I3kAkC7zM
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/external-programs-reports/2021-02-01_School%20Testing_San%20Francisco%20Unified%20School%20District%20-%20COVID%20Testing%20Implementation%20and%20Coordination.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 status: wip
