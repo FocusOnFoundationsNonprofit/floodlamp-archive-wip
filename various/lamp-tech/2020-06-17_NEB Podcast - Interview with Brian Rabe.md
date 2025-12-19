@@ -22,7 +22,7 @@ notes: date converted 2025-12-19
 link_web: https://www.neb.com/en/podcasts/podcast-25-covid-19-researcher-spotlight-series?srsltid=AfmBOorT4BJTXC_r08h0xFUCLiTd4AR2ZrXd6BqHlrPUlkoMp3OhjHeN
 link_youtube: https://youtu.be/bWremc4pF78
 audio_file: 2020-06-17_NEB Podcast - Interview with Brian Rabe.mp3
-summary_short: 
+summary_short: The NEB “Lessons from Lab and Life” Podcast #25 transcript captures an interview with Harvard Medical School PhD candidate Brian Rabe about developing a rapid, low-equipment RT-LAMP assay for SARS-CoV-2, including primer design, colorimetric pH-based readout, and sample prep approaches like HUDSON. It highlights practical testing workflows using contrived samples (swabs and saliva), sensitivity benchmarks, and ideas for deploying accessible diagnostics outside traditional labs (e.g., pop-up or at-home style testing).
 
 
 CONTENT
