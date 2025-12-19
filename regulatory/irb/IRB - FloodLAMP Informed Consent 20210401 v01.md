@@ -4,22 +4,22 @@ file_name: IRB - FloodLAMP Informed Consent 20210401 v01.md
 file_date: 2021-04-01
 title: IRB - FloodLAMP Informed Consent 20210401 v01
 category: regulatory
-subcategory: fl-fda-subs
+subcategory: irb
 tags: 
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1C9JnoXGmkyXQDSk4vIbyCnJD1gF7p-U3
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/irb/IRB%20-%20FloodLAMP%20Informed%20Consent%2020210401%20v01.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1wtZEiDitbU7cq6MxKyR0HZpld7SeF-Dc
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/irb/IRB%20-%20FloodLAMP%20Informed%20Consent%2020210401%20v01.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 2965
+words: 2013
 notes: 
-summary_short: 
+summary_short: The FloodLAMP COVID-19 Biobank and Test Validation Protocol informed consent form explains voluntary participation in donating biospecimens (e.g., blood, saliva, and various swabs) and optional surveys for research and test development. It outlines what participants should expect (no individual results, minimal risks, possible re-contact), how samples/data are coded and de-identified under HIPAA, and who may access or receive shared de-identified data. It also discloses ownership and potential commercialization of specimens/data, participant rights to withdraw, and oversight by an independent IRB.
 
 
 CONTENT
