@@ -4,7 +4,7 @@ file_name: 2021-05-18_Pre-EUA Sub - FloodLAMP Pooled Swab Collection Kit DTC.md
 file_date: 2021-05-18
 title: 2021-05-18_Pre-EUA Sub - FloodLAMP Pooled Swab Collection Kit DTC
 category: regulatory
-subcategory: fl-fda-subs
+subcategory: fl-fda-submissions
 tags: collection
 source_file_type: sketch
 xfile_type: NA
@@ -14,7 +14,6 @@ pdf_gdrive_url: https://drive.google.com/file/d/13ghhBwFK9nAfA2htGq7mQ_5_JXSgTix
 pdf_github_url: 
 conversion_input_file_type: pdf
 conversion: megaparse-u
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
 tokens: 
 words: 

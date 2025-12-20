@@ -4,32 +4,31 @@ file_name: 2021-05-18_Pre-EUA Sub - FloodLAMP Proposed Pooling and Asymptomatic 
 file_date: 2021-05-18
 title: Pre-EUA Sub - FloodLAMP Proposed Pooling and Asymptomatic Screening Study
 category: regulatory
-subcategory: fl-fda-subs
+subcategory: ffl-fda-submissions
 tags: 
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1l70VyK_wS6DkCVj6G61OaJGPSSHxU7tF4RrfckS0YPA
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-05-18_Pre-EUA%20Sub%20-%20FloodLAMP%20Proposed%20Pooling%20and%20Asymptomatic%20Screening%20Study.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1o_BdhSMocE3XsQoZQcS96IuA748hoyCG
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-05-18_Pre-EUA%20Sub%20-%20FloodLAMP%20Proposed%20Pooling%20and%20Asymptomatic%20Screening%20Study.pdf
 conversion_input_file_type: docx
 conversion: pandoc
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 1318
+words: 889
 notes: 
 summary_short: The Pre-EUA document outlines proposed validation studies to support swab pooling (up to four swabs) and serial asymptomatic screening claims for the FloodLAMP EasyPCR and QuickColor COVID-19 tests, aligned to FDA pooling/serial testing guidance. It specifies LoD and high-viral-load pooling experiments with replicate counts, acceptance criteria (e.g., ≥95% detection, Ct shift limits, invalid-rate thresholds), and use of inactivated virus controls. It also describes an IRB-approved asymptomatic screening study design using self-collected duplicate anterior nares swabs with a comparator EUA PCR test and app-based consent/kit logistics.
 
 
 CONTENT
 
-# Proposed Pooling Study
+## Proposed Pooling Study
 From FDA Guidance Document "Pooling and Serial Testing Amendment Letter" (4-20-2021) - Appendix B: Swab pooling up to n=5
 
 “Validation of Expected Limit of Detection (LoD)” and “Validation of High Viral Concentrations”. As part of the notification to FDA, summary data must be submitted, including the percent of positive pools detected, the Ct score difference, and the line data including the Ct score for each pool and individual sample tested.
 
-## 1) Validation of Expected Limit of Detection (LoD)
+### 1) Validation of Expected Limit of Detection (LoD)
 -   Use inactivated virus of a known quantity represented as copies/mL
 
     -   Zeptometrix NATSARS(COV2)-ST at 1e6 copies/mL OR
@@ -62,7 +61,7 @@ From FDA Guidance Document "Pooling and Serial Testing Amendment Letter" (4-20-2
 
     -   The invalid rate in the swab pooling protocol does not exceed 5%.
 
-## 2) Validation of High Viral Concentrations
+### 2) Validation of High Viral Concentrations
 -   Prepare 3 positive swabs simulating high viral concentrations by spiking to a final concentration of 1e6 copies/mL of inactivated virus in 1X Inactivation Saline Solution.
 
 -   Prepare 2 negative swabs by collecting from healthy individuals.
@@ -77,12 +76,12 @@ From FDA Guidance Document "Pooling and Serial Testing Amendment Letter" (4-20-2
 
     -   The invalid rate does not exceed 5%.
 
-# Proposed Asymptomatic Screening Study
+## Proposed Asymptomatic Screening Study
 The following clinical study is proposed as a condition of authorization for the serial screening indication of **FloodLAMP EasyPCR(TM) and QuickColor(TM) COVID-19 Tests** which specifies anterior nasal respiratory specimens from individuals without known or suspected COVID-19 when such individuals are tested as part of a testing program that includes testing at regular intervals, at least once per week, such as those implemented by schools, workplaces and community groups. A point-in-time asymptomatic claim will be requested provided the performance evaluation data from the study supports such a claim.
 
 FloodLAMP has obtained IRB approval to conduct the following clinical study from WCG IRB ("FloodLAMP COVID-19 Test Validation Protocol" 20210401, Study Number 1306140). The IRB Protocol includes several variations in sample collection sites and methods.
 
-## Inclusion and Exclusion Criteria for Asymptomatic Screening Study
+### Inclusion and Exclusion Criteria for Asymptomatic Screening Study
 | **Inclusion Criteria** | **Exclusion Criteria** |
 |------------------------------------|------------------------------------|
 | The specimen is an anterior nasal swab using the swab and QR code labeled tubes, nasal swabs included with the FloodLAMP Pooled Swab Collection Kit DTC. | The specimen was not properly collected, identified, transported, processed, or stored according to the instructions provided by the sponsor. |
@@ -99,4 +98,3 @@ The study will utilize an enrichment strategy to obtain specimens from 20 positi
 Eligible subjects will register using the **FloodLAMP Mobile App**, sign the Research Subject Information and Consent Form, then be mailed a version of the FloodLAMP Home Collection Kit for self-collection and sample return.
 
 Duplicate anterior nares swabs will be self-collected with the order being randomized and at least 10 but no more than 30 minutes between collection of the two swabs. One swab will be used to run the comparator test (EUA purified PCR test) and the other will be used to run the **FloodLAMP EasyPCR(TM) and QuickColor(TM) COVID-19 Tests**.
-

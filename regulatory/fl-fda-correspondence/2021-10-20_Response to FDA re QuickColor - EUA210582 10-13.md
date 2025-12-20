@@ -4,20 +4,19 @@ file_name: 2021-10-20_Response to FDA re QuickColor - EUA210582 10-13.md
 file_date: 2021-10-20
 title: Response to FDA re QuickColor - EUA210582 10-13
 category: regulatory
-subcategory: fl-fda-subs
+subcategory: fl-fda-correspondence
 tags: 
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1T1xco5NCe0F8GF84JqVZ0hDyBO0HsG-wbZ-66ezg14I
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-10-20_Response%20to%20FDA%20re%20QuickColor%20-%20EUA210582%2010-13.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1bE4JczPKTYLpuhhQQNdIak5K6_31yudU
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-10-20_Response%20to%20FDA%20re%20QuickColor%20-%20EUA210582%2010-13.pdf
 conversion_input_file_type: docx
 conversion: pandoc
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 1052
+words: 723
 notes: 
 summary_short: The Response to FDA re QuickColor (EUA210582) addresses FDA’s October 13 feedback by proposing updates to the intended use (removing “suspected of COVID” and focusing on serial screening), limiting sample type to nasal swabs only, and defending test performance with Stanford clinical evaluation data plus real-world pooled surveillance results. It also outlines planned updates or requests for FDA guidance on inclusivity/variant analysis, cross-reactivity and interference expectations for LAMP, endogenous interfering substances, external control concentration rationale, and qualification/lot tracking for RUO reagents.
 
@@ -67,4 +66,3 @@ The positive control material was validated with PCR, routinely measuring in the
 
 ## 6. RUO Reagents
 We will qualify specific lots of RUO reagents and post the lot numbers.
-

@@ -1,38 +1,37 @@
 METADATA
 last updated: 2025-12-16 BA updated metadata after BA fixed inconsistencies
-file_name: 2021-10-01_Instructions for Use - FloodLAMP QuickColor COVID-19 Test v1.2.md
-file_date: 2021-10-01
-title: Instructions for Use - FloodLAMP QuickColor COVID-19 Test v1.2
+file_name: 2021-05-18_Instructions for Use - FloodLAMP QuickColor COVID-19 Test v1.1.md
+file_date: 2021-05-18
+title: Instructions for Use - FloodLAMP QuickColor COVID-19 Test v1.1
 category: regulatory
-subcategory: fl-fda-subs
+subcategory: fl-fda-submissions
 tags: 
 source_file_type: gdoc
 xfile_type: docx
-gfile_url: https://docs.google.com/document/d/11mBfGYxQ3JLl5seHycFXzzLki5Qaxcp0EiIDuP48GzQ
-xfile_github_download_url: 
-pdf_gdrive_url: https://drive.google.com/file/d/1iG8vgTipdezsobTOea6URDaP7DWEti31
-pdf_github_url: 
+gfile_url: https://docs.google.com/document/d/19yTV3UUkOQrfbqOPcL5hhBw9eJyc_5ra5Uz_tKQcs24
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-05-18_Instructions%20for%20Use%20-%20FloodLAMP%20QuickColor%20COVID-19%20Test%20v1.1.docx
+pdf_gdrive_url: https://drive.google.com/file/d/1sX1THefQLIJxrQHUx0_NxRtgRGYfbvwc
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-05-18_Instructions%20for%20Use%20-%20FloodLAMP%20QuickColor%20COVID-19%20Test%20v1.1.pdf
 conversion_input_file_type: gdoc
 conversion: gdoc markdown
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 12128
+words: 7517
 notes: 
-summary_short: The FloodLAMP QuickColor COVID-19 Test Instructions for Use v1.2 (draft) provides updated procedures for an extraction-free, colorimetric RT-LAMP assay with visual interpretation (including photo-based review) for routine weekly screening in CLIA high-complexity labs. It details reagents, primer preparation, inactivation and amplification steps, controls, and revised guidance for handling inconclusive results using a triplicate repeat and defined result-mapping rules. It also summarizes analytical and clinical performance claims consistent with prior versions, including a 12,500 copies/mL LoD and 90% positive agreement with 100% negative agreement in an 80-specimen evaluation.
+summary_short: The Instructions for Use for the FloodLAMP QuickColor COVID-19 Test v1.1 provides CLIA high-complexity laboratories with the complete workflow for an extraction-free, colorimetric RT-LAMP assay with visual result interpretation after chemical and heat inactivation. It details required reagents, primer preparation, step-by-step testing procedures, control requirements, and criteria for interpreting positive, negative, and inconclusive results without specialized instrumentation. It also summarizes analytical and clinical performance, including a 12,500 copies/mL LoD and 90% positive agreement with 100% negative agreement in an 80-specimen clinical evaluation.
 
 
 CONTENT
 
 # FloodLAMP QuickColor(TM) COVID-19 Test
-Instructions for Use v1.2 \- DRAFT
+Instructions for Use v1.1
 
 IVD
 COVID-19 Emergency Use Authorization Only
 For *in vitro* diagnostic (IVD) Use
 
 www.floodlamp.bio
-FloodLAMP Biotechnologies, PBC | 4860 Alpine Rd. Portola Valley, CA USA 
+FloodLAMP Biotechnologies, PBC | 930 Brittan Ave. San Carlos, CA 94070 USA
 
 ## Table of Contents
 |  |  |
@@ -269,6 +268,7 @@ A 100X Inactivation Solution is prepared by mixing the components in Table 3 and
 | NaOH | 10 N | 2.3 mL | 1.15 N |
 | Nuclease-free Water | - | 3.7 mL | - |
 | **TOTAL VOLUME** | - | **20 mL** | - |
+||
 
 For swabs that are collected or eluted in 0.9% saline solution or equivalent, the 100X Inactivation Solution should be added at 1/100th the sample solution volume.
 
@@ -307,11 +307,10 @@ The LGC Biosearch primer products are provided already blended for each target (
 Alternatively to the pre-blended LGC Biosearch products, primers may be purchased as individual custom oligos. Custom oligos may be blended to form 30X Primer Set Mixes as intermediates or all mixed together for the 10X LAMP Primer Mix. The FIP and BIP primers for each target require purification by HPLC or an equivalent process. Appropriate validation of primer mixes from custom oligos is required. Primers may be stored at 4°C for up to one month, or at \-20°C for up to 1 year.
 
 #### Table 6: 10X LAMP Primer Mix Components
-| Vendor | Item | Catalog number | Quantity | # Reactions |
-|--------|------|----------------|-----------|-------------|
-| Order one of the following primer sets |||||
-| LGC Biosearch Technologies | SARS-CoV-2 LAMP ASIe 6 primer set at 30X (ORF1ab gene) | LAMP_S2-ASIe-48 | 6-48 nmol | 1,200 |
-| LGC Biosearch Technologies | SARS-CoV-2 LAMP ASIe 6 primer set at 30X (ORF1ab gene) | LAMP_S2-ASIe-480 | 60-480 nmol | 12,000 |
+| Vendor | Item | Catalog number | Quantity | #Reactions |
+|---------|------|----------------|-----------|------------|
+| LGC Biosearch Technologies | SARS-CoV-2 LAMP AS1e 6 primer set at 30X (ORF1ab gene) | LAMP_S2-AS1e-48 | 6-48 nmol | 1,200 |
+| LGC Biosearch Technologies | SARS-CoV-2 LAMP AS1e 6 primer set at 30X (ORF1ab gene) | LAMP_S2-AS1e-480 | 60-480 nmol | 12,000 |
 | LGC Biosearch Technologies | SARS-CoV-2 LAMP N2 6 primer set at 30X (N gene) | LAMP_S2-N2-48 | 6-48 nmol | 1,200 |
 | LGC Biosearch Technologies | SARS-CoV-2 LAMP N2 6 primer set at 30X (N gene) | LAMP_S2-N2-480 | 60-480 nmol | 12,000 |
 | LGC Biosearch Technologies | SARS-CoV-2 LAMP E1 6 primer set at 30X (E gene) | LAMP_S2-E1-48 | 6-48 nmol | 1,200 |
@@ -344,6 +343,7 @@ Alternatively to the pre-blended LGC Biosearch products, primers may be purchase
 3) Wipe the outside of the sample tube with 70% ethanol. 
 
 For dry swab specimens:
+
 1) Wipe the outside of the sample tube with 70% ethanol. 
 
 ### Sample Inactivation
@@ -374,7 +374,7 @@ Note: Testing of inactivated specimens must be conducted the same day inactivati
 8) Vortex the Colorimetric LAMP Amplification Reaction Solution for 10 seconds and briefly spin down in a centrifuge to collect the liquid at the bottom of the tube.  
 9) Add 23 µL of the Colorimetric LAMP Amplification Reaction Solution into the wells of the PCR plate or PCR strip tubes.
 
-NOTE: Reaction plates/strip tubes comprising the Colorimetric LAMP Amplification Reaction Solution may be prepared in advance, capped/sealed, and stored at \-20°C for up to 3 days prior to addition of the sample. A heated plate sealer may be used to seal plates. Alternatively, a manually applied foil or optical seal may be used.
+   NOTE: Reaction plates/strip tubes comprising the Colorimetric LAMP Amplification Reaction Solution may be prepared in advance, capped/sealed, and stored at \-20°C for up to 3 days prior to addition of the sample. A heated plate sealer may be used to seal plates. Alternatively, a manually applied foil or optical seal may be used.
 
 #### Table 7: Primer-Guanidine Solution
 | Component | Volume (1 reaction) | Volume (1 reaction x 100) 1 x 96-plate w/ 4% overage |
@@ -401,7 +401,7 @@ NOTE: Ensure that positive and negative controls are included in each batch run 
 
 1) Turn on the amplification heater (a thermal cycler, water bath, dry heat bath or equivalent) and set the temperature to hold at 65°C.
 
-NOTE: Amplification heater should be located in a separate, dedicated BSC or area of the lab. Proper cross contamination prevention practices are required, such as glove changes, to prevent amplicon contamination.
+   NOTE: Amplification heater should be located in a separate, dedicated BSC or area of the lab. Proper cross contamination prevention practices are required, such as glove changes, to prevent amplicon contamination.
 
 2) Add 2 μL of each sample into a separate tube in the amplification reaction PCR plate or strip tubes.   
 3) Mix by pipetting.  
@@ -416,34 +416,22 @@ All test controls should be examined prior to interpretation of patient specimen
 
 **![][image1]![][image2]**
 
-#### Figure 1. Negative control (left) and positive control (right) after amplification.
-
+#### Figure 1: Negative control (left) and positive control (right) after amplification.
 If the negative and positive controls do not appear as expected, the specimen results of the corresponding plate or batch should be considered invalid. In the event of a failure of either the positive or negative control, the lab should discard some or all of the consumables utilized for associated run, including the filter tips, tubes, plates, seals, and aliquots of reagents. Additionally, all pipettes, BSC, and appropriate lab surfaces should be thoroughly cleaned with freshly made 10% bleach solution, 70% ethanol, and optionally RNAseZAP product. In the event of the failure of the positive control, the working aliquot of positive control material should be discarded. Additionally, the lab should review the expiration of the batch of positive control aliquots and verify their integrity by performing qualification reactions of one or more positive control aliquots. If controls continue to fail, labs should not perform additional tests on clinical specimens or report results. Invalid test results should be repeated by performing another amplification reaction.
 
 ### Patient Specimen Results Interpretation
 NOTE: Patient specimen results can only be interpreted if the positive and negative controls in the plate or group of strip tubes have the expected results.
 
-Test results should be read at least 1 minute and no more than 8 hours after plates or tubes have been removed from heat. Test results may be determined directly from visual inspection of the color of the reaction tubes or from photographs: 
+Test results should be read at least 1 minute and no more than 8 hours after plates or tubes have been removed from heat. Test results may be determined directly from visual inspection of the color of the reaction tubes: 
 
 * yellow \- result is positive  
 * bright pink or red \- result is negative  
-* any other color \- result is inconclusive. 
+* any other color \- result is invalid. 
 
 Examples are shown below in Figure 2. Edge cases for positive and negative results are shown below in Figure 3. Any color variance stronger than the edge cases should be interpreted as inconclusive. In order to reduce the chance of both false negative and false positive results, this window for color variance is intentionally set to be small.
 
 If the initial test is inconclusive, then one of the following should be performed:  
-1) repeat the Colorimetric LAMP Amplification Reaction on the inactivated samplein triplicate. Results of the repeat tests are to be interpreted according to Table 9 below.
-
-#### Table 9: Initial Inconclusive Repeat Results Interpretation
-| Repeat Triplicate Results | Final Sample Result Reported |
-| :---: | :---: |
-| 3 Positive | Positive |
-| 2 Positive, 1 Inconclusive | Positive |
-| 1 Positive, 2 Inconclusive | Inconclusive |
-| 3 Negative | Negative |
-| Any other results | Inconclusive |
-||
-
+1) repeat the Colorimetric LAMP Amplification Reaction on the inactivated sample. If the repeat test has a positive result then the final interpretation of the test is positive. If the repeat test has a negative or another inconclusive result, then the final interpretation is inconclusive.  
 2) follow-up test the inactivated sample with the FloodLAMP EasyPCR(TM) COVID-19 Test or another high sensitivity EUA authorized test that comprises the same inactivation protocol. The final interpretation is the result of the follow-up test.
 
 For serial screening of individuals without symptoms or other epidemiological reasons to suspect COVID-19 infection, the initial inconclusive test result may be considered the final interpretation.
@@ -456,9 +444,9 @@ If the final interpretation of the test result is inconclusive, then "Inconclusi
 
 ## Performance Evaluation
 ### Analytical Sensitivity: Limit of Detection (LoD)
-The Limit of Detection (LoD) for the FloodLAMP QuickColor(TM) COVID-19 Test was established using gamma-irradiated SARS-CoV-2 virus cell lysate (BEI NR-52287) spiked into negative real specimens. The negative specimens were confirmed by PCR using the CDC primers. The gamma-irradiated virus was spiked into the specimen prior to the heat inactivation step, and carried through the entire assay. The concentration of spike was such that the contrived positive sample was at 100,000 copies/mL after the inactivation step. The stock contrived positive was diluted into inactivated negative sample matrix to produce the concentrations for the LoD study. A preliminary LoD run was performed using the concentrations ranging from 100,000 copies/mL to 3,100 copies/mL. Concentrations of 12,500 and 6,250 were selected for confirmatory LoD runs. LoD run details are provided in Supporting Data, with the results summarized below in Table 10. The LoD, defined as the concentration at which at least 95% of the samples are positive, was determined at 12,500 copies/mL.
+The Limit of Detection (LoD) for the FloodLAMP QuickColor(TM) COVID-19 Test was established using gamma-irradiated SARS-CoV-2 virus cell lysate (BEI NR-52287) spiked into negative real specimens. The negative specimens were confirmed by PCR using the CDC primers. The gamma-irradiated virus was spiked into the specimen prior to the heat inactivation step, and carried through the entire assay. The concentration of spike was such that the contrived positive sample was at 100,000 copies/mL after the inactivation step. The stock contrived positive was diluted into inactivated negative sample matrix to produce the concentrations for the LoD study. A preliminary LoD run was performed using the concentrations ranging from 100,000 copies/mL to 3,100 copies/mL. Concentrations of 12,500 and 6,250 were selected for confirmatory LoD runs. LoD run details are provided in Supporting Data, with the results summarized below in Table 9. The LoD, defined as the concentration at which at least 95% of the samples are positive, was determined at 12,500 copies/mL.
 
-#### Table 10: LoD Confirmatory Data Results
+#### Table 9: LoD Confirmatory Data Results
 | Concentration of Contrived Positive Sample  | Replicates Detected |
 | :---: | :---: |
 | 12,500 copies/mL | 95% (20/21) |
@@ -466,11 +454,11 @@ The Limit of Detection (LoD) for the FloodLAMP QuickColor(TM) COVID-19 Test was 
 ||
 
 ### Analytical Sensitivity: Inclusivity (*in silico*)
-An inclusivity study was conducted for the ORF1ab, N2, and E1 primer sets against all complete, high coverage SARS-CoV-2 sequences deposited at GISAID as of February 27, 2021. Table 11 summarizes the results of this *in silico* inclusivity analysis. A total of 498,224 sequences were considered. There are 10 sequence isolates that have 1mm to both As1e and E1 and had N2 excluded due to greater than 15 N's, with the other 498,214 sequence isolates all have at least 1 target region that is a complete match.
+An inclusivity study was conducted for the ORF1ab, N2, and E1 primer sets against all complete, high coverage SARS-CoV-2 sequences deposited at GISAID as of February 27, 2021. Table 10 summarizes the results of this *in silico* inclusivity analysis. A total of 498,224 sequences were considered. There are 10 sequence isolates that have 1mm to both As1e and E1 and had N2 excluded due to greater than 15 N's, with the other 498,214 sequence isolates all have at least 1 target region that is a complete match.
 
 Each primer set matched at 100% similarity against the SARS-CoV-2 RefSeq reference genome (Wuhan-Hu-1; NC\_045512.1). All three primer sets differed by one or fewer mutations for 99.7% of GISAID sequences, indicating nominal primer hybridization for all SARS-CoV-2 variants under consideration.	
 
-#### Table 11: *In Silico* Inclusivity Analysis for LAMP Primers
+#### Table 10: *In Silico* Inclusivity Analysis for LAMP Primers
 | Primer | AS1e  (ORF1ab gene) |  | N2  (N gene) |  | E1  (E gene) |  |
 | :---- | ----- | ----- | ----- | ----- | ----- | ----- |
 | **Total Primer Length** | 195 |  | 169 |  | 168 |  |
@@ -484,38 +472,34 @@ Each primer set matched at 100% similarity against the SARS-CoV-2 RefSeq referen
 ||
 
 ### Evaluation of Impact of Viral Mutations
-The As1e, E1 and N2 primer regions of all SARS-CoV-2 genomes present in GISAID as of 2/26/2021 were evaluated to assess the potential impact of genomic variants on LAMP primer binding. This analysis was performed with the Primer Monitoring Tool from New England Biolabs ([primer-monitor.neb.com](http://primer-monitor.neb.com)), which continually monitors registered primer sets for overlapping variants in sequences from GISAID. Results are summarized by region and locus below in Table 12, including the 30 countries with most sequences in GISAID. Sequences were aligned to the SARS-CoV-2 reference sequence (NC\_045512.2) using minimap2 (minimap2 \-t 16 \-x asm5 \-a). Variant sites (excluding Ns) were identified using samtools mpileup and summarized by region and genome position. Genomic positions having \>= 40 global variant observations are shown (column labels). When present, box labels indicate the fraction of variants observed at a given locus.
+The As1e, E1 and N2 primer regions of all SARS-CoV-2 genomes present in GISAID as of 2/26/2021 were evaluated to assess the potential impact of genomic variants on LAMP primer binding. This analysis was performed with the Primer Monitoring Tool from New England Biolabs ([primer-monitor.neb.com](http://primer-monitor.neb.com)), which continually monitors registered primer sets for overlapping variants in sequences from GISAID. Results are summarized by region and locus below in Table 11, including the 30 countries with most sequences in GISAID. Sequences were aligned to the SARS-CoV-2 reference sequence (NC\_045512.2) using minimap2 (minimap2 \-t 16 \-x asm5 \-a). Variant sites (excluding Ns) were identified using samtools mpileup and summarized by region and genome position. Genomic positions having \>= 40 global variant observations are shown (column labels). When present, box labels indicate the fraction of variants observed at a given locus.
 
 The aggregate of current published mutations is not expected to reduce performance of the FloodLAMP QuickColor(TM) COVID-19 Test by more than 5% from that established by the performance evaluation in this EUA submission. Further, the use of 3 primer sets targeting different regions in the SARS-CoV-2 genome should make the test robust to new genetic variants.
 
-#### Table 12: Variant Analysis of LAMP Primers
+#### Table 11: Variant Analysis of LAMP Primers
 ![][image6]  
 ![][image7]
 
-## Analytical Specificity: Cross-Reactivity (*in silico*) {#analytical-specificity:-cross-reactivity-(in-silico)}
-
-*In silico* cross-reactivity analysis was performed by aligning the primer sequences of the FloodLAMP QuickColor(TM) COVID-19 Test against sequences of other coronaviruses and common respiratory flora using the BLASTn alignment tool from NCBI. Results of this analysis are presented in Tables 13A, 13B, and 13C. 
+### Analytical Specificity: Cross-Reactivity (*in silico*)
+*In silico* cross-reactivity analysis was performed by aligning the primer sequences of the FloodLAMP QuickColor(TM) COVID-19 Test against sequences of other coronaviruses and common respiratory flora using the BLASTn alignment tool from NCBI. Results of this analysis are presented in Tables 12A, 12B, and 12C. 
 
 The % identity range (\# identical bases/ \# primer bases) is shown for each primer and organism. Darker font indicates % identity greater than 80%. Organisms with \>= 50% identity primer hits are shown. This analysis is not intended to predict amplification. Near perfect homology across B3, F3, FIP and BIP is necessary to support successful amplification. With the exception of SARS-CoV, simultaneous homologies do not occur between any of the primers and microorganisms screened. With respect to clinical relevance of the *in silico* cross-reactivity analysis, there are no known circulating strains of SARS-CoV circulating in humans, thus the overall probability for the test to produce a cross-reactive signal is negligible.
 
-#### Table 13A: *In Silico* Cross-Reactivity Analysis for AS1e Primers
-
+#### Table 12A: *In Silico* Cross-Reactivity Analysis for AS1e Primers
 ![][image8]
 
-#### Table 13B: In Silico Cross-Reactivity Analysis for N2 Primers
-
+#### Table 12B: In Silico Cross-Reactivity Analysis for N2 Primers
 ![][image9]
 
-#### Table 13C: *In Silico* Cross-Reactivity Analysis for E1 Primers
-
+#### Table 12C: *In Silico* Cross-Reactivity Analysis for E1 Primers
 ![][image10]
 
 ### Analytical Specificity: Cross-Reactivity (*wet testing*)
-Wet testing was performed to demonstrate that the FloodLAMP QuickColor(TM) COVID-19 Test does not react with related pathogens, high prevalence disease agents and normal or pathogenic flora that are reasonably likely to be encountered in a clinical specimen.  SARS-CoV, RSV, Flu, Human Metapneumovirus. and Streptococcus Salivarius were tested for potential cross-reactivity, as shown in Table 14. Gamma-irradiated SARS-CoV-2 virus cell lysate (BEI NR-52287) was spiked onto dried AN swab specimens to produce contrived Positve Controls. Negative Control dried swabs obtained simultaneously were confirmed to be SARS-CoV-2 negative by PCR using the CDC primers. The gamma-irradiated SARS-CoV-2 virus and cross-reactivity organisms were spiked into the dried swabs prior to the heat inactivation step, and carried through the full test protocol. 
+Wet testing was performed to demonstrate that the FloodLAMP QuickColor(TM) COVID-19 Test does not react with related pathogens, high prevalence disease agents and normal or pathogenic flora that are reasonably likely to be encountered in a clinical specimen.  SARS-CoV, RSV, Flu, Human Metapneumovirus. and Streptococcus Salivarius were tested for potential cross-reactivity, as shown in Table 13. Gamma-irradiated SARS-CoV-2 virus cell lysate (BEI NR-52287) was spiked onto dried AN swab specimens to produce contrived Positve Controls. Negative Control dried swabs obtained simultaneously were confirmed to be SARS-CoV-2 negative by PCR using the CDC primers. The gamma-irradiated SARS-CoV-2 virus and cross-reactivity organisms were spiked into the dried swabs prior to the heat inactivation step, and carried through the full test protocol. 
 
-All wet testing showed no cross-reactivity with the viral pathogens and common respiratory flora, as shown in Table 14.
+All wet testing showed no cross-reactivity with the viral pathogens and common respiratory flora, as shown in Table 13.
 
-#### Table 14: Wet Testing Cross-Reactivity Results
+#### Table 13: Wet Testing Cross-Reactivity Results
 | Organism | Description | BEI Number | Detected Replicates |
 | ----- | ----- | :---: | :---: |
 | SARS-CoV | UV-inactivated virus | NR-3882 | 0/3 |
@@ -528,9 +512,9 @@ All wet testing showed no cross-reactivity with the viral pathogens and common r
 ### Analytical Specificity: Interfering Substances
 Exogenous and endogenous substances were tested for potential interference with the FloodLAMP QuickColor(TM) COVID-19 Test. Gamma-irradiated SARS-CoV-2 virus cell lysate (BEI NR-52287) was spiked onto dried AN swab specimens to produce contrived Positve Controls. Negative Control dried swabs obtained simultaneously were confirmed to be SARS-CoV-2 negative by PCR using the CDC primers. The gamma-irradiated SARS-CoV-2 virus and interfering substances were spiked into the dried swabs prior to the heat inactivation step, and carried through the full test protocol. 
 
-All interfering substance testing showed no disagreement with expected positive and negative results, as shown in Table 15 and Supporting Data.
+All interfering substance testing showed no disagreement with expected positive and negative results, as shown in Table 14 and Supporting Data.
 
-#### Table 15: Interfering Substances Results
+#### Table 14: Interfering Substances Results
 | Interfering Substance | Active Ingredient | Concentration | % Agreement with Expected Results |  |
 | :---: | :---: | :---: | :---: | :---: |
 |  |  |  | **Positive Control Spiked** | **Negative Control Unspiked** |
@@ -542,9 +526,9 @@ All interfering substance testing showed no disagreement with expected positive 
 ||
 
 ## Clinical Evaluation
-The clinical evaluation of the FloodLAMP QuickColor(TM) COVID-19 Test utilized confirmed clinical anterior nares swab specimens. 40 positive and 40 negative clinical specimens were evaluated and compared to a high sensitivity EUA authorized test run on the original fresh samples. The FloodLAMP QuickColor(TM) COVID-19 Test showed a positive agreement of 90% and a negative agreement of 100%. The 4 false negative results were specimens with high Ct values as previously measured by the comparator test, indicating low viral load. A summary of the clinical performance is below in Table 16. 
+The clinical evaluation of the FloodLAMP QuickColor(TM) COVID-19 Test utilized confirmed clinical anterior nares swab specimens. 40 positive and 40 negative clinical specimens were evaluated and compared to a high sensitivity EUA authorized test run on the original fresh samples. The FloodLAMP QuickColor(TM) COVID-19 Test showed a positive agreement of 90% and a negative agreement of 100%. The 4 false negative results were specimens with high Ct values as previously measured by the comparator test, indicating low viral load. A summary of the clinical performance is below in Table 15. 
 
-#### Table 16: Clinical Evaluation Results
+#### Table 15: Clinical Evaluation Results
 | FloodLAMP QuickColor(TM) COVID-19 Test Results | Comparator \- High Sensitivity EUA Authorized Test |  |  |
 | :---: | :---: | :---: | :---: |
 |  | **Positive** | **Negative** | **Total** |
@@ -553,6 +537,7 @@ The clinical evaluation of the FloodLAMP QuickColor(TM) COVID-19 Test utilized c
 | Total | 40 | 40 | 80 |
 | Positive Agreement | 90.0% (36/40) 95% CI: 76.3% to 97.2% |  |  |
 | Negative Agreement | 100% (40/40) 95% CI: 91.2% to 100% |  |  |
+||
 
 ## Support
 FloodLAMP Biotechnologies, PBC support center   

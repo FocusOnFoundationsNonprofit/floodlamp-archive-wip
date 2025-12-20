@@ -4,27 +4,26 @@ file_name: 2021-03-22_Instructions for Use - FloodLAMP EasyPCR COVID-19 Test v1.
 file_date: 2021-03-22
 title: Instructions for Use - FloodLAMP EasyPCR COVID-19 Test v1.0
 category: regulatory
-subcategory: fl-fda-subs
+subcategory: fl-fda-submissions
 tags: 
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/19kCNgAQKcM_fpSBXlOyPBOYG1BPIp1Zpv_WpF5WwebY
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-03-22_Instructions%20for%20Use%20-%20FloodLAMP%20EasyPCR%20COVID-19%20Test%20v1.0.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1C2VtxuYhMxZ7SyTDB-6te8LNi9ed2J5i
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-03-22_Instructions%20for%20Use%20-%20FloodLAMP%20EasyPCR%20COVID-19%20Test%20v1.0.pdf
 conversion_input_file_type: gdoc
 conversion: gdoc markdown
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 13969
+words: 8769
 notes: 
 summary_short: The Instructions for Use for the FloodLAMP EasyPCR COVID-19 Test v1.0 provides CLIA high-complexity labs with the full workflow for an extraction-free, duplex RT-qPCR assay using CDC N1 and RNaseP targets after TCEP-based chemical plus heat inactivation. It specifies required reagents and equipment, contamination controls, instrument setup/templates, step-by-step plate and run procedures, and Ct-based result interpretation with control acceptance criteria. It also summarizes stated analytical/clinical performance (including a 3,100 copies/mL LoD and 97.5%/100% agreement in an 80-specimen evaluation) and required reporting/recordkeeping under EUA conditions.
 
 
 CONTENT
 
-# FloodLAMP EasyPCR(TM) COVID-19 Test  
+***INTERNAL TITLE:*** FloodLAMP EasyPCR(TM) COVID-19 Test  
 Instructions for Use v1.0
 
 IVD
@@ -706,4 +705,3 @@ FloodLAMP Biotechnologies, PBC support center
 
 QuantStudio is a trademark of Thermo Fisher Scientific (NYSE: TMO)  
 Bio-Rad and Bio-Rad CFX96 Touch is a trademark of Bio-Rad Laboratories, Inc. (NYSE: BIO)
-

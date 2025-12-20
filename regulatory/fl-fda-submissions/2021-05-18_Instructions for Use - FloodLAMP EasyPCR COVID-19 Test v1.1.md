@@ -4,27 +4,26 @@ file_name: 2021-05-18_Instructions for Use - FloodLAMP EasyPCR COVID-19 Test v1.
 file_date: 2021-05-18
 title: Instructions for Use - FloodLAMP EasyPCR COVID-19 Test v1.1
 category: regulatory
-subcategory: fl-fda-subs
+subcategory: fl-fda-submissions
 tags: 
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1ZeJ4WLC4KXchsf5Lha6SL-JNIaNHX12dtqlFoInGEwE
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-05-18_Instructions%20for%20Use%20-%20FloodLAMP%20EasyPCR%20COVID-19%20Test%20v1.1.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1JmITEap5NAd9_dyouusNwFNYAb2-5F7c
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-05-18_Instructions%20for%20Use%20-%20FloodLAMP%20EasyPCR%20COVID-19%20Test%20v1.1.pdf
 conversion_input_file_type: gdoc
 conversion: gdoc markdown
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 14248
+words: 9132
 notes: 
 summary_short: The Instructions for Use for the FloodLAMP EasyPCR COVID-19 Test v1.1 provides CLIA high-complexity labs with the complete protocol for an extraction-free, duplex RT-qPCR assay (CDC N1 + RNaseP) used in routine screening programs with at least weekly testing. It details required reagents and equipment, inactivation and amplification workflows, instrument template setup, data export/compilation, and Ct-based interpretation with control acceptance criteria. It also summarizes stated analytical and clinical performance, including a 3,100 copies/mL LoD and 97.5% positive agreement with 100% negative agreement in an 80-specimen evaluation.
 
 
 CONTENT
 
-# FloodLAMP EasyPCR(TM) COVID-19 Test
+***INTERNAL TITLE:*** FloodLAMP EasyPCR(TM) COVID-19 Test
 Instructions for Use v1.1
 
 IVD
@@ -725,5 +724,4 @@ eua.support@floodlamp.bio
 
 QuantStudio(TM)  is a trademark of Thermo Fisher Scientific (NYSE: TMO)
 
-Bio-Rad(TM) and Bio-Rad CFX96 Touch(TM)  are trademarks of Bio-Rad Laboratories, Inc. (NYSE: BIO)  
-
+Bio-Rad(TM) and Bio-Rad CFX96 Touch(TM)  are trademarks of Bio-Rad Laboratories, Inc. (NYSE: BIO)

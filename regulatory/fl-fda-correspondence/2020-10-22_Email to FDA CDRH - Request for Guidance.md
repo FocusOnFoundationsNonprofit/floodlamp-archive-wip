@@ -4,27 +4,26 @@ file_name: 2020-10-22_Email to FDA CDRH - Request for Guidance.md
 file_date: 2020-10-22
 title: Email to FDA CDRH - Request for Guidance
 category: regulatory
-subcategory: fl-fda-subs
+subcategory: fl-fda-correspondence
 tags: 
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1mH0N7IRddKIaXaZAyHAqqyhh3epTeheieS20-dm3_U0
-xfile_github_download_url: 
-pdf_gdrive_url: 
-pdf_github_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2020-10-22_Email%20to%20FDA%20CDRH%20-%20Request%20for%20Guidance.docx
+pdf_gdrive_url: https://drive.google.com/file/d/1JxojezTCq8L0bJutMf4yE4l64BP-b-xU
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2020-10-22_Email%20to%20FDA%20CDRH%20-%20Request%20for%20Guidance.pdf
 conversion_input_file_type: docx
 conversion: pandoc
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 735
+words: 536
 notes: 
 summary_short: The Email to FDA CDRH - Request for Guidance (Oct 22, 2020) outlines FloodLAMP’s pre-EUA request to the FDA for feedback on validating a pooled SARS-CoV-2 RT-LAMP screening program, including proposed pooling levels, turnaround targets, and two assay configurations (fluorimetric and colorimetric) with preliminary LoD data. It’s useful as an early regulatory-facing snapshot of FloodLAMP’s technical approach, intended use in asymptomatic group screening, and the specific guidance and template updates they were seeking to shape an EUA-ready validation plan.
 
 
 CONTENT
 
-# Pre-EUA email 10/22 sent to CDRH
+***INTERNAL TITLE:*** Pre-EUA email 10/22 sent to CDRH
 FloodLAMP Biotechnologies is a Public Benefit Corporation with a mission to improve public health with scalable, low-cost infectious disease screening programs. Our near-term goal is to help end the COVID-19 crisis through widely accessible SARS-CoV-2 pooled screening. We are based in San Carlos, CA and are engaged in a number of collaborations with mission-driven individuals and organizations.
 
 FloodLAMP is developing an integrated screening program consisting of efficient on-site and at-home pooled sample collection, combined with an ultra-low-cost, low-barrier-to-entry RT-LAMP assay protocol. The assay uses a chemical inactivation (TCEP/EDTA) and a bead purification step to achieve high sensitivity required for pooling. Amplification is via RT-LAMP, with 2 versions of the kit under development: 1) fluorimetric for real-time measurement on qPCR instruments and 2) colorimetric for endpoint visual and camera based readout. Preliminary LoD studies using Zeptometrix inactivated virions spiked into anterior nares swab extract have determined an LoD of 2 copies/ul for the colorimetric assay. We\'ve run thousands of samples to date.
@@ -55,4 +54,3 @@ July 28 Molecular Diagnostic Template for Commercial Manufacturers
 July 28 Molecular Diagnostic Template for Laboratories
 
 May 29 Home Specimen Collection Molecular Diagnostic
-

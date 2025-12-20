@@ -4,27 +4,26 @@ file_name: 2021-03-26_Instructions for Use - FloodLAMP FLAMP COVID-19 Test NOT S
 file_date: 2021-03-26
 title: Instructions for Use - FloodLAMP FLAMP COVID-19 Test NOT SUBMITTED
 category: regulatory
-subcategory: fl-fda-subs
+subcategory: fl-fda-submissions
 tags: 
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1fsdl_yjBbAV7MnQiwihumJziZApkTa1IJ8RewS4qz-U
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-03-26_Instructions%20for%20Use%20-%20FloodLAMP%20FLAMP%20COVID-19%20Test%20NOT%20SUBMITTED.docx
 pdf_gdrive_url: https://drive.google.com/file/d/16kki-qqeTDNdmg-mscq5PByURqvKy3hC
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-03-26_Instructions%20for%20Use%20-%20FloodLAMP%20FLAMP%20COVID-19%20Test%20NOT%20SUBMITTED.pdf
 conversion_input_file_type: gdoc
 conversion: gdoc markdown
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 15127
+words: 9482
 notes: 
 summary_short: The draft Instructions for Use for the FloodLAMP QuickFluor COVID-19 Test describe an extraction-free, fluorimetric RT-LAMP assay with real-time fluorescence detection on RT-PCR instruments following chemical and heat inactivation. It provides detailed procedures for reagent and primer preparation, instrument setup, workflow execution, controls, and Ct-based result interpretation for CLIA high-complexity laboratories. It also documents proposed analytical and clinical performance, including a 50,000 copies/mL LoD and 80–85% positive agreement with 100% negative agreement in an 80-specimen clinical evaluation, for a test that was not submitted for EUA.
 
 
 CONTENT
 
-# FloodLAMP QuickFluor(TM) COVID-19 Test
+***INTERNAL TITLE:*** FloodLAMP QuickFluor(TM) COVID-19 Test
 Instructions for Use v1.0 \*\*DRAFT\*\*
 
 IVD

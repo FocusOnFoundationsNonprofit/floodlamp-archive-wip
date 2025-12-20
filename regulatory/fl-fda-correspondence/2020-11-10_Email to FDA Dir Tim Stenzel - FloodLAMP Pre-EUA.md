@@ -4,20 +4,19 @@ file_name: 2020-11-10_Email to FDA Dir Tim Stenzel - FloodLAMP Pre-EUA.md
 file_date: 2020-11-10
 title: Email to FDA Dir Tim Stenzel - FloodLAMP Pre-EUA
 category: regulatory
-subcategory: fl-fda-subs
+subcategory: fl-fda-correspondence
 tags: 
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1VBn8z1oUZA29-9OkproAwofi6O2ubEQ7PkvVdvyZqSA
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2020-11-10_Email%20to%20FDA%20Dir%20Tim%20Stenzel%20-%20FloodLAMP%20Pre-EUA.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1KkiuK5SPHIxHrdUhVLitD8uE3FCl3tdc
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2020-11-10_Email%20to%20FDA%20Dir%20Tim%20Stenzel%20-%20FloodLAMP%20Pre-EUA.pdf
 conversion_input_file_type: docx
 conversion: pandoc
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 383
+words: 281
 notes: 
 summary_short: The Email to FDA Dir Tim Stenzel - FloodLAMP Pre-EUA (Nov 10, 2020) is an outreach note requesting a meeting to discuss FloodLAMP’s newly submitted pre-EUA for an ultra-low-cost, LAMP-based SARS-CoV-2 test and how an “open source” EUA model could be expanded beyond SalivaDirect. It highlights key regulatory topics FloodLAMP wanted to align on—especially asymptomatic screening, pooling, and on-site/at-home collection—and proposes forming a consortium of mission-driven developers to produce validated, open-access molecular tests.
 
@@ -37,4 +36,3 @@ We are currently helping a third group who has submitted an EUA and is also seek
 There\'s a lot of hard work to be done to achieve this ambitious goal, and we would like to discuss with you how to most efficiently proceed. Please let us know if you are available soon to discuss.
 
 Best Regards
-

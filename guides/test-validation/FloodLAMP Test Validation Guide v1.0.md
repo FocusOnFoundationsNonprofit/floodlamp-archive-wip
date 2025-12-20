@@ -3,21 +3,20 @@ last updated: 2025-12-15 RT updated metadata after BA fixed inconsistencies
 file_name: FloodLAMP Test Validation Guide v1.0.md
 file_date: 
 title: FloodLAMP Test Validation Guide v1.0
-category: regulatory
-subcategory: fl-fda-subs
+category: guides
+subcategory: test-validation
 tags: 
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1WMik-eNoPiJdfQMnzxj9BeptxJUZa_mPFeR--8nbLrI
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/FloodLAMP%20Test%20Validation%20Guide%20v1.0.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1hhysHVm8TlpmvASuxvPQV5w4SSZmgKdH
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/FloodLAMP%20Test%20Validation%20Guide%20v1.0.pdf
 conversion_input_file_type: docx
 conversion: gdoc markdown
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 5414
+words: 3487
 notes: 
 summary_short: The FloodLAMP Test Validation Guide v1.0 outlines the validation workflow for the QuickColor and EasyPCR COVID-19 assays, including required equipment, kit reagents/supplies, inactivation and amplification procedures, and control/result interpretation criteria. It summarizes key performance metrics (LoD, clinical sensitivity/specificity) and defines two validation runs (controls-only and contrived-positive LoD series) to standardize qualification and troubleshooting across sites.
 
@@ -25,8 +24,8 @@ summary_short: The FloodLAMP Test Validation Guide v1.0 outlines the validation 
 CONTENT
 
 # FloodLAMP Test Validation Guide
-**EasyPCRTM COVID-19 Test**
-**QuickColorTM COVID-19 Test**
+**EasyPCR(TM) COVID-19 Test**
+**QuickColor(TM) COVID-19 Test**
 
 Excerpts from DRAFT Instructions for Use\*
 
@@ -38,30 +37,30 @@ www.floodlamp.bio
 FloodLAMP Biotechnologies, PBC | 930 Brittan Ave. San Carlos, CA 94070 USA
 
 ## Overview
-FloodLAMP’s QuickColorTM and EasyPCRTM COVID-19 Tests are streamlined, direct extraction-free molecular assays for the qualitative detection of RNA from the SARS-CoV-2 virus in upper respiratory specimens. They are validated for use with nasal swabs and full EUAs have been submitted to the FDA, including all *in silico*, wet testing, and clinical evaluation data. A summary of the EUA validation data is below. In addition, a pre-EUA for the FloodLAMP Home Collection Kit DTC was submitted on \[5-10-2021\], describing the clinical study design for unsupervised collection of pooled nasal swabs (up to 5). The clinical study also includes usability testing for the FloodLAMP Mobile App. FloodLAMP will conduct the clinical study under an approved IRB Protocol (from WIRB \#20210401) in coordination with a testing program to enrich for asymptomatic positives.
+FloodLAMP’s QuickColor(TM) and EasyPCR(TM) COVID-19 Tests are streamlined, direct extraction-free molecular assays for the qualitative detection of RNA from the SARS-CoV-2 virus in upper respiratory specimens. They are validated for use with nasal swabs and full EUAs have been submitted to the FDA, including all *in silico*, wet testing, and clinical evaluation data. A summary of the EUA validation data is below. In addition, a pre-EUA for the FloodLAMP Home Collection Kit DTC was submitted on \[5-10-2021\], describing the clinical study design for unsupervised collection of pooled nasal swabs (up to 5). The clinical study also includes usability testing for the FloodLAMP Mobile App. FloodLAMP will conduct the clinical study under an approved IRB Protocol (from WIRB \#20210401) in coordination with a testing program to enrich for asymptomatic positives.
 
 **FloodLAMP EUA Submission Validation Summary**
-|  | EasyPCRTM COVID-19 Test | QuickColorTM COVID-19 Test |
+|  | EasyPCR(TM) COVID-19 Test | QuickColor(TM) COVID-19 Test |
 | ----- | :---: | :---: |
 | Limit of Detection | 3,100 copies/mL | 12,500 copies/mL |
 | Clinical Sensitivity | 97.5% (39/40) | 90.0% (36/40) |
 | Clinical Specificity | 100% (40/40) | 100% (40/40) |
 ||
 
-The FloodLAMP QuickColorTM and EasyPCRTM COVID-19 Tests use the same inactivated sample, making validation and troubleshooting more straightforward. The inactivation process consists of adding freshly prepared 1X Inactivation Saline Solution, produced by adding 100X Inactivation Solution to 0.9% Saline. 1 mL of 1X Inactivation Saline Solution is used in each tube of up to 5 dry nasal swabs. The tube is vortexed for 30 seconds to elute the specimen from the swab. Next it's heated at a nominal 95°C for minutes and allowed to cool at room temperature for 10 minutes. The inactivated sample is then ready to be added to a prepared amplification reaction mix.
+The FloodLAMP QuickColor(TM) and EasyPCR(TM) COVID-19 Tests use the same inactivated sample, making validation and troubleshooting more straightforward. The inactivation process consists of adding freshly prepared 1X Inactivation Saline Solution, produced by adding 100X Inactivation Solution to 0.9% Saline. 1 mL of 1X Inactivation Saline Solution is used in each tube of up to 5 dry nasal swabs. The tube is vortexed for 30 seconds to elute the specimen from the swab. Next it's heated at a nominal 95°C for minutes and allowed to cool at room temperature for 10 minutes. The inactivated sample is then ready to be added to a prepared amplification reaction mix.
 
-The tests only require a single pipette step and one filter tip per pool and the 1X Inactivation Saline Solution is efficiently dispensed by bottle top dispenser.  Small batch sizes can be run in as little as 45 minutes from sample to result for the QuickColorTM test, 1 hour and 40 min for EasyPCRTM.
+The tests only require a single pipette step and one filter tip per pool and the 1X Inactivation Saline Solution is efficiently dispensed by bottle top dispenser.  Small batch sizes can be run in as little as 45 minutes from sample to result for the QuickColor(TM) test, 1 hour and 40 min for EasyPCR(TM).
 
-A team of 4 newly trained technicians can process approximately 2,500 tubes per 8 hr shift, totaling 10K people screened in pools of 4. Given the low infrastructure needed to run the QuickColorTM LAMP test, a distributed network of basic labs or processing sites can be supplied from a single lab that prepares ready to use assay plates and controls in bulk.
+A team of 4 newly trained technicians can process approximately 2,500 tubes per 8 hr shift, totaling 10K people screened in pools of 4. Given the low infrastructure needed to run the QuickColor(TM) LAMP test, a distributed network of basic labs or processing sites can be supplied from a single lab that prepares ready to use assay plates and controls in bulk.
 
- FloodLAMP’s QuickColorTM and EasyPCRTM COVID-19 tests have very low consumable cost, on a per reaction and per person basis. Additionally, both tests are supply chain robust, using readily available chemicals and supplies.   
+ FloodLAMP’s QuickColor(TM) and EasyPCR(TM) COVID-19 tests have very low consumable cost, on a per reaction and per person basis. Additionally, both tests are supply chain robust, using readily available chemicals and supplies.   
 _Diagram of FloodLAMP Direct RNA Assays_
 
 ## Validation Runs
-The FloodLAMP validation process for the EasyPCRTM and QuickColorTM tests comprises 2 runs:
+The FloodLAMP validation process for the EasyPCR(TM) and QuickColor(TM) tests comprises 2 runs:
 
 - **1st Run** -  alternating positive and negative amplification controls and only materials provided in the FloodLAMP Validation Kit. 8 reactions in a single strip tube.
-- **2nd Run** - inactivation of a contrived positive sample and preparation of dilution series between 100 and 1 cp/ul. Run consists of a preliminary LoD (full dilution series in triplicate) and a confirmatory LoD of 22 reps at 12.5 cp/µL for LAMP QuickColorTM and and 3 cp/µL for EasyPCRTM.  48 reactions in each PCR plate.
+- **2nd Run** - inactivation of a contrived positive sample and preparation of dilution series between 100 and 1 cp/ul. Run consists of a preliminary LoD (full dilution series in triplicate) and a confirmatory LoD of 22 reps at 12.5 cp/µL for LAMP QuickColor(TM) and and 3 cp/µL for EasyPCR(TM).  48 reactions in each PCR plate.
 
 The contrived positive in the 2nd Run is made by spiking a self-collected nasal swab sample with inactivated virus ( provided, gamma-irradiated SARS-CoV-2 virus cell lysate BEI NR-52287). The spiked sample is inactivated along with 3 unspiked samples, which are used together to make a dilution series to be used for the complete preliminary and confirmatory LoD runs (see Dilution Series spreadsheet, LoD plate map, and GCP100 Batch Record below). A positive and negative amplification control is also included in the 2nd Run. 
 _Screenshot of Validation Kit Prep: Dilution Series_
@@ -90,11 +89,11 @@ _Screenshot of GCP100 Batch Record v1.3_
 ### Reagents Provided  in FloodLAMP Validation Kit (dry ice)
 | Reagent Name (Label) | Storage | Photo | Amount | Conc. | Num Rxns | Purpose |
 | ----- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 5X PCR Primers (PCRP) Eurofins 12YS-010YST **(PCRP(Label)** | -20°C | ![][image9] | 10 x 105µL | 5X | 10 x 24  \= 240 | EasyPCRTM Reaction Mix |
-| PCR MM (NLMM) NEB Luna E3006 | -20°C | ![][image10] | 737µL |  | \~\<72 | EasyPCRTM Reaction Mix |
-| PCR RT (NLRT) NEB Luna E3006 | -20°C | ![][image11] | 74µL |  | \~\<72 | EasyPCRTM Reaction Mix |
-| Primer-Guanidine Solution for LAMP  (PGS) FloodLAMP PGS\_210427 | -20°C | ![][image12] | 10 x 275µL |  | 10 x 24  \= 240 | Colorimetric LAMP QuickColorTM Reaction Mix |
-| Colorimetric LAMP MM NEB M1804 | -20°C | ![][image13] | 1mL | 2X | 72 | Colorimetric LAMP QuickColorTM Reaction Mix |
+| 5X PCR Primers (PCRP) Eurofins 12YS-010YST **(PCRP(Label)** | -20°C | ![][image9] | 10 x 105µL | 5X | 10 x 24  \= 240 | EasyPCR(TM) Reaction Mix |
+| PCR MM (NLMM) NEB Luna E3006 | -20°C | ![][image10] | 737µL |  | \~\<72 | EasyPCR(TM) Reaction Mix |
+| PCR RT (NLRT) NEB Luna E3006 | -20°C | ![][image11] | 74µL |  | \~\<72 | EasyPCR(TM) Reaction Mix |
+| Primer-Guanidine Solution for LAMP  (PGS) FloodLAMP PGS\_210427 | -20°C | ![][image12] | 10 x 275µL |  | 10 x 24  \= 240 | Colorimetric LAMP QuickColor(TM) Reaction Mix |
+| Colorimetric LAMP MM NEB M1804 | -20°C | ![][image13] | 1mL | 2X | 72 | Colorimetric LAMP QuickColor(TM) Reaction Mix |
 | Amp Positive Control (TPC) Twist 102019 & Thermo 4307281 | -80°C | ![][image14] | 10 x 10µL | \~100 cp/µL | 10 x 4 rxn @ 2ul/rxn | Amplification Positive Control (should give \~32 Ct on EasyPCRTM) |
 | Inactivated Virus (GBD) BEI NR-52287 | -80°C | ![][image15] | 4 x 100µL | 1K cp/µL | 4  | Contrived Positive Sample creation. In 1ml, final conc. is 100 cp/µL |
 ||
@@ -164,7 +163,7 @@ NOTE: Colorimetric LAMP Negative Control must be prepared from 0.9% Saline and 1
 | Primers  (Tube Label) | PCRP (5X PCR Primer Stock) | PGS (Primer-Guanidine Solution) |
 ||
 
-## EasyPCRTM Amplification Reaction Preparation
+## EasyPCR(TM) Amplification Reaction Preparation
 1) Prepare the PCR Amplification Reaction by combining the components listed in the table below. 
 
      *NOTE: Component volumes should be scaled proportionally for the number of reactions.*  
@@ -174,7 +173,7 @@ NOTE: Colorimetric LAMP Negative Control must be prepared from 0.9% Saline and 1
 2) Vortex the PCR Amplification Reaction Solution for 10 seconds and briefly spin down in a centrifuge to collect the liquid at the bottom of the tube.  
 3) Add 18 µL of the PCR Amplification Reaction Solution into the wells of the PCR plate or strip tubes.
 
-### EasyPCRTM Amplification Reaction Mix
+### EasyPCR(TM) Amplification Reaction Mix
 | Component | Volume  (1 reaction) | Volume  (1 x 24 rxn w/ 9% overage) | Volume  (1 x 96 rxn w/ 4% overage) |
 | ----- | :---: | :---: | :---: |
 | 5X PCR Primer Stock | 4 µL | 105 µL | 400 µL |
@@ -194,7 +193,7 @@ NOTE: Ensure that amp positive control and negative control are included in each
 3) If using PCR plate, optical seal (optionally using heat sealer). If using PCR strip tubes, cap strips.  
 4) Pulse vortex and briefly spin down in a centrifuge to collect the liquid at the bottom of the tube.
 
-Continue to section “Run the Assay” on pg. 20 of FloodLAMP EasyPCRTM PCR COVID-19 Test IFU.
+Continue to section “Run the Assay” on pg. 20 of FloodLAMP EasyPCR(TM) PCR COVID-19 Test IFU.
 
 ### Thermal cycling and plate read steps for the Bio-Rad CFX96 TouchTM
 | Stage | Temperature | Time | Reps |
@@ -212,26 +211,26 @@ All test controls should be examined prior to interpretation of patient specimen
 - The Positive Template Control should yield a positive “detected” result for the N1 target and a negative “not detected” for the RNaseP control.  
 - The Internal Process Control should yield a positive "detected" result for RNaseP. Detection of RNaseP is required to report a negative SARS-CoV-2 result. 
 
-In the event of a failure of either the positive or negative control, the lab should discard some or all of the consumables utilized for associated run, including the filter tips, tubes, plates, seals, and aliquots of reagents. Additionally, all pipettes, BSC, and appropriate lab surfaces should be thoroughly cleaned with freshly made 10% bleach solution, 70% ethanol, and (optionally) RNAseZAPTM product. In the event of the failure of the positive control, the working aliquot of positive control material should be discarded. Additionally, the lab should review the expiration of the batch of positive control aliquots and verify their integrity by performing qualification reactions of one or more positive control aliquots. If controls continue to fail, labs should not perform additional tests on clinical specimens or report results. Invalid test results should be repeated by performing another amplification reaction.
+In the event of a failure of either the positive or negative control, the lab should discard some or all of the consumables utilized for associated run, including the filter tips, tubes, plates, seals, and aliquots of reagents. Additionally, all pipettes, BSC, and appropriate lab surfaces should be thoroughly cleaned with freshly made 10% bleach solution, 70% ethanol, and (optionally) RNAseZAP(TM) product. In the event of the failure of the positive control, the working aliquot of positive control material should be discarded. Additionally, the lab should review the expiration of the batch of positive control aliquots and verify their integrity by performing qualification reactions of one or more positive control aliquots. If controls continue to fail, labs should not perform additional tests on clinical specimens or report results. Invalid test results should be repeated by performing another amplification reaction.
 
 ## Patient Specimen Results Interpretation (EasyPCRTM)
 NOTE: Patient specimen results can only be interpreted if the positive and negative controls in the plate or group of strip tubes have the expected results. Use the below to assign a result to each sample.  
 
 ### EasyPCRTM: Interpretation of Assay Results
-| ABI QuantStudioTM 7 Pro |  |  |
+| ABI QuantStudio(TM) 7 Pro |  |  |
 | :---: | :---: | :---: |
 | **Result** | **Ct Value: N1** | **Ct Value RP** |
 | Positive | \<38.0 | Any Value |
 | Negative | ≥38.0 | \<35.0 |
 | \*Invalid | ≥38.0 | ≥35.0 |
-| **Bio-Rad CFX96 TouchTM ABI QuantStudioTM 6 Flex** |  |  |
+| **Bio-Rad CFX96 Touch(TM) ABI QuantStudio(TM) 6 Flex** |  |  |
 | **Result** | **Ct Value: N1** | **Ct Value RP** |
 | Positive | \<40.0 | Any Value |
 | Negative | ≥40.0 | \<35.0 |
 | \*Invalid | ≥40.0 | ≥35.0 |
 ||
 
-## QuickColorTM Colorimetric LAMP Amplification Reaction
+## QuickColor(TM) Colorimetric LAMP Amplification Reaction
 1) Prepare the Colorimetric LAMP Amplification Reaction Mix by adding the Colorimetric LAMP MM to the Primer-Guanidine Solution per the volumes listed in the Table below. 
 
      *NOTE: Component volumes should be scaled proportionally for the number of reactions.*  
@@ -243,7 +242,7 @@ NOTE: Patient specimen results can only be interpreted if the positive and negat
 
 NOTE: Reaction plates/strip tubes comprising the Colorimetric LAMP Amplification Reaction Solution may be prepared in advance, capped/sealed, and stored at -20°C for up to 3 days prior to addition of the sample.
 
-### **QuickColorTM Colorimetric LAMP Amplification Reaction**
+### **QuickColor(TM) Colorimetric LAMP Amplification Reaction**
 
 | Component | Volume  (1 reaction) | Volume  (1 x 24 rxn w/ 9% overage) | Volume  (1 x 96 rxn w/ 9% overage) |
 | ----- | :---: | :---: | :---: |
@@ -267,7 +266,7 @@ NOTE: Amplification heater should be located in a separate, dedicated BSC or are
 7) Remove the plate or strip tubes from the heater after 25 minutes.  
 8) Let cool for 1 minute and then interpret the test results.
 
-Continue to section "Test Controls" on pg. 17 of FloodLAMP QuickColorTM COVID-19 Test IFU.
+Continue to section "Test Controls" on pg. 17 of FloodLAMP QuickColor(TM) COVID-19 Test IFU.
 
 ## Patient Specimen Results Interpretation (QuickColorTM)
 NOTE: Patient specimen results can only be interpreted if the positive and negative controls in the plate or group of strip tubes have the expected results.
@@ -282,7 +281,7 @@ Examples are shown below. Edge cases for positive and negative results are shown
 
 If the initial test is inconclusive, then one of the following should be performed:  
 1) repeat the Colorimetric LAMP Amplification Reaction on the inactivated sample. If the repeat test has a positive result then the final interpretation of the test is positive. If the repeat test has a negative or another inconclusive result, then the final interpretation is inconclusive.  
-2) follow-up test the inactivated sample with the FloodLAMP EasyPCRTM COVID-19 Test or another high sensitivity EUA authorized test that comprises the same inactivation protocol. The final interpretation is the result of the follow-up test.
+2) follow-up test the inactivated sample with the FloodLAMP EasyPCR(TM) COVID-19 Test or another high sensitivity EUA authorized test that comprises the same inactivation protocol. The final interpretation is the result of the follow-up test.
 
 If the final interpretation of the test result is inconclusive, then "Inconclusive" should be reported and retesting of the individual is recommended.
 

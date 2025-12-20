@@ -4,27 +4,26 @@ file_name: 2021-03-22_EUA Submission - FloodLAMP QuickColor COVID-19 Test v1.0.m
 file_date: 2021-03-22
 title: EUA Submission - FloodLAMP QuickColor COVID-19 Test v1.0
 category: regulatory
-subcategory: fl-fda-subs
+subcategory: fl-fda-submissions
 tags: 
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/19VRwuRtGafiCtB7rHAn264BqKSJgqEjb
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-03-22_EUA%20Submission%20-%20FloodLAMP%20QuickColor%20COVID-19%20Test%20v1.0.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1sS6RlG2aLsXouqmliuSLbQOr4C4eVz2S
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-03-22_EUA%20Submission%20-%20FloodLAMP%20QuickColor%20COVID-19%20Test%20v1.0.pdf
 conversion_input_file_type: docx
 conversion: pandoc
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 10866
+words: 6495
 notes: 
 summary_short: The EUA Submission for the FloodLAMP QuickColor COVID-19 Test v1.0 describes an extraction-free, colorimetric RT-LAMP assay for qualitative SARS-CoV-2 detection using a visual pink-to-yellow readout and no specialized instrumentation. It details intended use for weekly screening of symptomatic and asymptomatic individuals, primer design targeting three viral genes, sample inactivation workflow, controls, and interpretation criteria for CLIA high-complexity labs. It reports analytical and clinical performance including a 12,500 copies/mL LoD and 90% positive agreement with 100% negative agreement in an 80-specimen clinical evaluation.
 
 
 CONTENT
 
-# EUA Submission - FloodLAMP QuickColor(TM) COVID-19 Test
+***INTERNAL TITLE:*** EUA Submission - FloodLAMP QuickColor(TM) COVID-19 Test
 ## A. PURPOSE FOR SUBMISSION
 Emergency Use Authorization (EUA) request for distribution and/or use of the **FloodLAMP QuickColor(TM) COVID-19 Test** for the *in vitro* qualitative detection of RNA from the SARS-CoV-2 in in upper respiratory specimens including oropharyngeal and nasopharyngeal swabs, anterior nasal and mid-turbinate nasal swabs **from individuals suspected of COVID-19 by their healthcare provider and from individuals without symptoms or other epidemiological reasons to suspect COVID-19 infection, when tested at a weekly interval with no more than 9 days between tests.** Additional testing and confirmation procedures should be performed in consultation with public health and/or other authorities to whom reporting is required. Test results should be reported in accordance with local, state, and federal regulations.
 
