@@ -3,28 +3,27 @@ last updated: 2025-12-16 BA updated metadata after BA fixed inconsistencies
 file_name: 2021-03-10_Clinical Eval Guide - from FloodLAMP IFU DRAFTS.md
 file_date: 2021-03-10
 title: Clinical Eval Guide - from FloodLAMP IFU DRAFTS
-category: regulatory
-subcategory: fl-fda-subs
+category: guides
+subcategory: test-validation
 tags: 
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Sss5KtnmrR1csGJSlSSKshiTlS4El3k_CljpIJOR41Y
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-03-10_Clinical%20Eval%20Guide%20-%20from%20FloodLAMP%20IFU%20DRAFTS.docx
 pdf_gdrive_url: https://drive.google.com/file/d/11_IKObjkDKgCIZjaWYGjOwAx0COg2g9v
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-03-10_Clinical%20Eval%20Guide%20-%20from%20FloodLAMP%20IFU%20DRAFTS.pdf
 conversion_input_file_type: docx
 conversion: pandoc
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 3503
+words: 2183
 notes: 
 summary_short: The Clinical Eval Guide from FloodLAMP IFU drafts outlines step-by-step procedures, reagents, controls, and equipment for clinical evaluation of FloodLAMP COVID-19 PCR, colorimetric LAMP, and fluorimetric LAMP assays. It standardizes sample inactivation, amplification setup, and control handling to support consistent clinical testing and regulatory review.
 
 
 CONTENT
 
-# FloodLAMP COVID-19 Tests
+***INTERNAL TITLE:*** FloodLAMP COVID-19 Tests
    EasyPCR(TM)
    QuickColor(TM) 
    QuickFluor(TM)
@@ -233,4 +232,3 @@ Separate Flipper Racks (5 orange)
 PCR cold blocks
 
 ## Notes and Suggestions
-
