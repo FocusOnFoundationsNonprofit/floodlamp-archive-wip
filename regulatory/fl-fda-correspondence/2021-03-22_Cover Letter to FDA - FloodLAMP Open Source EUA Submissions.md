@@ -4,20 +4,19 @@ file_name: 2021-03-22_Cover Letter to FDA - FloodLAMP Open Source EUA Submission
 file_date: 2021-03-22
 title: Cover Letter to FDA - FloodLAMP Open Source EUA Submissions
 category: regulatory
-subcategory: fl-fda-subs
+subcategory: fl-fda-correspondence
 tags: 
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1NQ3_Rmh-AYVSPYn7AP-Hls9rMLBXEX1zWLvRLTrzPrE
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-03-22_Cover%20Letter%20to%20FDA%20-%20FloodLAMP%20Open%20Source%20EUA%20Submissions.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1Msh-TYQeiZlCc2fd_zhW0CQOk3U8B_bO
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-03-22_Cover%20Letter%20to%20FDA%20-%20FloodLAMP%20Open%20Source%20EUA%20Submissions.pdf
 conversion_input_file_type: docx
 conversion: pandoc
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 716
+words: 518
 notes: 
 summary_short: The Cover Letter to FDA for FloodLAMP Open Source EUA Submissions summarizes FloodLAMP’s follow-up to a pre-EUA with two full EUA submissions: the QuickColor colorimetric LAMP test and the EasyPCR duplex PCR test, both using a shelf-stable chemical plus heat inactivation workflow. It positions the assays as open-source, supply-chain-resilient protocols (modeled on SalivaDirect) and highlights primer sourcing, clinical performance claims, intended screening use cases, and supporting plans for IRB studies and a companion mobile app.
 
@@ -47,4 +46,3 @@ Randy True
 
 Founder - FloodLAMP Biotechnologies, Public Benefit Corporation
 randy@floodlamp.bio
-

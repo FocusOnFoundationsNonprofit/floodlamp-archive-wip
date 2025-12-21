@@ -4,27 +4,26 @@ file_name: 2020-11-06_Pre-EUA Sub - FloodLAMP Glass Milk LAMP Test.md
 file_date: 2020-11-06
 title: Pre-EUA Sub - FloodLAMP Glass Milk LAMP Test
 category: regulatory
-subcategory: fl-fda-subs
+subcategory: fl-fda-submissions
 tags: 
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/17NMbkJOYgDgA1mdlawn10Hw3067GZ1wI
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2020-11-06_Pre-EUA%20Sub%20-%20FloodLAMP%20Glass%20Milk%20LAMP%20Test.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1pvKMujtiyxrQ7_OwkXEO6Uy4m4ejGY6_
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2020-11-06_Pre-EUA%20Sub%20-%20FloodLAMP%20Glass%20Milk%20LAMP%20Test.pdf
 conversion_input_file_type: docx
 conversion: pandoc
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 4269
+words: 2262
 notes: 
 summary_short: The Pre-EUA Sub - FloodLAMP Glass Milk LAMP Test (Nov 6, 2020) is a Molecular Diagnostic Template submission for laboratory use that defines the intended use, measurand, and workflow for a pooled, colorimetric RT-LAMP SARS-CoV-2 test using chemical inactivation plus “glass milk” silica purification for saliva and anterior nares samples in high-complexity CLIA labs. It compiles key regulatory details, validated reagents and prepared solutions, step-by-step procedures, controls, result interpretation criteria, and early performance data (including LoD) to support an EUA pathway for asymptomatic screening and pooling.
 
 
 CONTENT
 
-# Molecular Diagnostic Template for Laboratories
+***INTERNAL TITLE:*** Molecular Diagnostic Template for Laboratories
 ## A. PURPOSE FOR SUBMISSION
 Emergency Use Authorization (EUA) request for use of FloodLAMP to be performed for the in vitro qualitative detection of RNA from the SARS-CoV-2 in anterior nares swab specimens and saliva samples from individuals \[suspected of COVID-19 by their healthcare provider\]\[as recommended for testing by public health authority guidelines for screening of asymptomatic individuals\]. FloodLAMP will be performed in CLIA-certified, high-complexity laboratories. Additional testing and confirmation procedures should be performed in consultation with public health and/or other authorities to whom reporting is required. Positive results should also be reported in accordance with local, state, and federal regulations.
 

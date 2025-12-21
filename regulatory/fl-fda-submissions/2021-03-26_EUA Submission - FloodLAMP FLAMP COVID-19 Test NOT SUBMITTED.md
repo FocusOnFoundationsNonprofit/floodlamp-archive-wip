@@ -4,27 +4,26 @@ file_name: 2021-03-26_EUA Submission - FloodLAMP FLAMP COVID-19 Test NOT SUBMITT
 file_date: 2021-03-26
 title: EUA Submission - FloodLAMP FLAMP COVID-19 Test NOT SUBMITTED
 category: regulatory
-subcategory: fl-fda-subs
+subcategory: fl-fda-submissions
 tags: 
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1PAAR6WuaB1MjEhA4vN5t6lf5X7nY1Uhw
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-03-26_EUA%20Submission%20-%20FloodLAMP%20FLAMP%20COVID-19%20Test%20NOT%20SUBMITTED.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1GkGtknrbFOSlAWkbv3wf5cs2JfuQNd-x
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-03-26_EUA%20Submission%20-%20FloodLAMP%20FLAMP%20COVID-19%20Test%20NOT%20SUBMITTED.pdf
 conversion_input_file_type: docx
 conversion: gdoc markdown
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 10204
+words: 6077
 notes: 
 summary_short: The EUA Submission draft for the FloodLAMP QuickFluor COVID-19 Test (not submitted) describes an extraction-free, fluorimetric RT-LAMP assay using ORF1ab/N/E primer sets and real-time fluorescence readout on validated RT-PCR instruments (e.g., QuantStudio 7 Pro and Bio-Rad CFX96). It specifies the sample inactivation workflow, reaction setup, controls, and result interpretation criteria, along with proposed “open source” component sourcing for CLIA high-complexity labs. It summarizes stated performance claims including a 50,000 copies/mL LoD and clinical agreement results (80% positive agreement, 100% negative agreement) from an 80-specimen evaluation.
 
 
 CONTENT
 
-# EUA Submission - FloodLAMP QuickFluor(TM) COVID-19 Test
+***INTERNAL TITLE:*** EUA Submission - FloodLAMP QuickFluor(TM) COVID-19 Test
 ## A. PURPOSE FOR SUBMISSION
 Emergency Use Authorization (EUA) request for distribution and/or use of the **FloodLAMP QuickFluor(TM) COVID-19 Test** for the *in vitro* qualitative detection of RNA from the SARS-CoV-2 in upper respiratory specimens including oropharyngeal and nasopharyngeal swabs, anterior nasal and mid-turbinate nasal swabs **from individuals suspected of COVID-19 by their healthcare provider and from individuals without symptoms or other epidemiological reasons to suspect COVID-19 infection, when tested at a weekly interval with no more than 9 days between tests *.*** Additional testing and confirmation procedures should be performed in consultation with public health and/or other authorities to whom reporting is required. Test results should be reported in accordance with local, state, and federal regulations.
 

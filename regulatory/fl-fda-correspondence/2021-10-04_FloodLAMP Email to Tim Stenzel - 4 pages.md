@@ -4,8 +4,8 @@ file_name: 2021-10-04_FloodLAMP Email to Tim Stenzel - 4 pages.md
 file_date: 2021-10-04
 title: FloodLAMP Email to Tim Stenzel - 4 pages
 category: regulatory
-subcategory: fl-fda-subs
-tags: correspondence
+subcategory: fl-fda-correspondence
+tags: 
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1z3zw4jLv5UmZaSFGxloNeBQmV46WWAa70BbfAbowX7A
@@ -14,7 +14,6 @@ pdf_gdrive_url: https://drive.google.com/file/d/14WazfTa6NVDRdE5TMR7q4Ze8Lb44I7m
 pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-10-04_FloodLAMP%20Email%20to%20Tim%20Stenzel%20-%204%20pages.pdf
 conversion_input_file_type: gdoc
 conversion: cut and paste
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
 tokens: 2327
 words: 1779

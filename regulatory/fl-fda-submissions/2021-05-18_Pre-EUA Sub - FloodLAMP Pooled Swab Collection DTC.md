@@ -4,27 +4,26 @@ file_name: 2021-05-18_Pre-EUA Sub - FloodLAMP Pooled Swab Collection DTC.md
 file_date: 2021-05-18
 title: Pre-EUA Sub - FloodLAMP Pooled Swab Collection DTC
 category: regulatory
-subcategory: fl-fda-subs
+subcategory: fl-fda-submissions
 tags: 
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1SixDbR0YTTz5b1xIA92TCH0dt6Yul5hG
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-05-18_Pre-EUA%20Sub%20-%20FloodLAMP%20Pooled%20Swab%20Collection%20DTC.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1xyDz50WSzjhaVNuEXPk5GfsRWQojUJRP
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-05-18_Pre-EUA%20Sub%20-%20FloodLAMP%20Pooled%20Swab%20Collection%20DTC.pdf
 conversion_input_file_type: docx
 conversion: pandoc
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 5818
+words: 4091
 notes: 
 summary_short: The Pre-EUA submission for the FloodLAMP Pooled Swab Collection Kit DTC outlines an unsupervised, direct-to-consumer system for pooling 1–4 dry anterior nasal swabs for SARS-CoV-2 testing at designated CLIA high-complexity laboratories. It describes the kit components, ordering/registration and accessioning workflows (including optional use of the FloodLAMP Mobile App for pooling, identity, and results delivery), and planned usability and stability/rehydration validation for use with authorized molecular tests. It frames intended use for asymptomatic screening programs and specifies reporting, labeling, manufacturing, and recordkeeping expectations for an EUA pathway.
 
 
 CONTENT
 
-# Home Specimen Collection Molecular Diagnostic Template
+***INTERNAL TITLE:*** Home Specimen Collection Molecular Diagnostic Template
 ## A. PURPOSE FOR SUBMISSION
 Emergency Use Authorization (EUA) request for distribution and/or use of the **FloodLAMP Pooled Swab Collection Kit DTC** for the **unsupervised collection** of **1 to 4 pooled nasal swabs** in a **dry tube** to transport viral SARS-CoV-2 RNA, from **any individual, including individuals without symptoms or other reasons to suspect COVID-19**. The collection kit is for use in conjunction with molecular diagnostic testing performed at a clinical laboratory using an in vitro diagnostic (IVD) test for the detection of SARS-CoV-2 that is authorized for use with the **FloodLAMP Pooled Swab Collection Kit DTC**.
 
@@ -275,4 +274,3 @@ Currently no methods for specimen self-collection in conjunction with a laborato
 If authorized, conditions would likely be included in the EUA to require the following -
 
 **FloodLAMP Biotechnologies** will track adverse events and report to FDA under 21 CFR Part 803. A website is available to report adverse events, and this website is referenced through the **FloodLAMP Biotechnologies** Product Support website: **floodlamp.bio/support**. Each report of an adverse event will be processed according to **FloodLAMP Biotechnologies**’s Non-Conformance Reporting Requirements, and Medical Device Reports will be filed with the FDA as required. Through a process of inventory control, **FloodLAMP Biotechnologies** will also maintain records of device usage/purchase. **FloodLAMP Biotechnologies** will collect information on the performance of the test, and report to FDA any suspected occurrence of false positive or false negative results of which **FloodLAMP Biotechnologies** becomes aware. **FloodLAMP Biotechnologies** will maintain records associated with this EUA and ensure these records are maintained until notified by FDA. Such records will be made available to FDA for inspection upon request.
-

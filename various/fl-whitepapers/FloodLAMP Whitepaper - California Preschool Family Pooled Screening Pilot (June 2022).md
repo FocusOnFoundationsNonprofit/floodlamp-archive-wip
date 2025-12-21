@@ -1,31 +1,30 @@
 METADATA
 last updated: 2025-12-15 RT updated metadata after BA fixed inconsistencies
-file_name: FloodLAMP Preschool Pilot Whitepaper.md
+file_name: FloodLAMP Whitepaper - California Preschool Family Pooled Screening Pilot (June 2022).md
 file_date: 06-30-2022
-title: FloodLAMP Preschool Pilot Whitepaper
-category: guides
-subcategory: test-site
+title: FloodLAMP Whitepaper - California Preschool Family Pooled Screening Pilot (June 2022)
+category: various
+subcategory: fl-whitepapers
 tags: whitepaper
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1TOnklq-65XUX-v-li018rteK9jeL8NgqbNrtbndgD_o
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/FloodLAMP%20Preschool%20Pilot%20Whitepaper.docx
 pdf_gdrive_url: https://drive.google.com/file/d/13SD5Rw_TGwIU_lrhvFahxA8VSoRIImdH
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/FloodLAMP%20Preschool%20Pilot%20Whitepaper.pdf
 conversion_input_file_type: docx
 conversion: pandoc
-status: wip
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 
-words: 
+tokens: 4026
+words: 2883
 notes: 
 summary_short: The “FloodLAMP Preschool Pilot Whitepaper” describes a California preschool’s at-home family pooled COVID-19 surveillance testing program using FloodLAMP’s QuickColor molecular LAMP test, including onboarding, collection/drop-off workflows, near-site processing, and reporting practices. It documents pilot outcomes across the 2021–2022 school year (including the Omicron period), presents case studies comparing FloodLAMP to rapid antigen tests, and summarizes participation, turnaround time, and community impact with supporting figures and feedback.
 
 
 CONTENT
 
-# Early Childcare COVID-19 Surveillance: At Home Family Pooled Testing Pilot in a California Preschool
-## Protecting young children during the pandemic through innovations in disease screening
+***INTERNAL TITLE:*** Early Childcare COVID-19 Surveillance: At Home Family Pooled Testing Pilot in a California Preschool
+Protecting young children during the pandemic through innovations in disease screening
 
 **Randy True** – CEO, FloodLAMP Biotechnologies, PBC
 **Theresa Ling** – Program Experience and Design, FloodLAMP Biotechnologies, PBC
