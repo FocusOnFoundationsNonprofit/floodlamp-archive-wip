@@ -146,12 +146,22 @@ Assessment of the FloodLAMP COVID-19 Tests of clinical specimen test results sho
 Upon completion of the clinical validation studies, Positive and Negative Agreement for each target will be calculated and data stratified as previously described.
 
 Figure 1: Study Workflow
+flowchart TD
+  A[Sample collection<br/>Meet inclusion/exclusion criteria<br/>N ≤ 100,000] --> B[Specimen processing<br/>Take two nasal swabs from anterior nares]
 
-<img src="./media/media/FloodLAMP-IRB-Protocol-Figure1-Workflow.png"/>
+  B --> C1[Subject device testing<br/>Nasal swabs]
+  B --> C2[Comparator device testing<br/>NP swabs]
+
+  C1 --> D[Analysis performed<br/>Results documented on case report form (CRF)]
+  C2 --> D
+
+  B -.-> N1{{Dry swabs should be processed within 56 hours from collection.<br/>If frozen, specimens are to be stored at ≤ -70°C until tested.}}
+
 
 **Dry swabs should be processed within 56 hours from collection.**
 
 **If frozen, specimens are to be stored at ≤-70°C until tested.**
+
 
 ## 5. DEVICE DESCRIPTION
 See Instructions for Use: Principles of Procedure
